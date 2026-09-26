@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software or formal models, please cite it as below."
+authors:
+  - family-names: "Huynh"
+    given-names: "Gia Bao"
+    orcid: "https://orcid.org/0009-0008-2372-5852"
+    email: "huynhbao@asu.edu"
+    affiliation: "Independent Researcher, Ho Chi Minh City, Vietnam"
+title: "The Mathematical Basin: Thirteen Formal Models of Longevity Asymmetry, Structural Lock-in, and Institutional Dissolution"
+version: 1.0.0
+date-released: 2026-06-15
+url: "https://github.com/giabaohuynhasu/the-mathematical-basin-13-models"
+repository-code: "https://github.com/giabaohuynhasu/the-mathematical-basin-13-models"
+keywords:
+  - "longevity asymmetry"
+  - "mathematical modeling"
+  - "queueing theory"
+  - "institutional endurance"
+  - "epistemic asymmetry"
+  - "non-state actors"
+  - "AI governance"
+  - "lyapunov stability"
+license: MIT

@@ -1,0 +1,179 @@
+{
+  "parameters": {
+    "D": {
+      "value": 165000,
+      "unit": "deaths/day",
+      "model": 1,
+      "description": "Global daily mortality baseline",
+      "source": "UN World Population Prospects (WPP) 2024 medium variant"
+    },
+    "p0": {
+      "value": 0.001,
+      "unit": "dimensionless",
+      "model": 1,
+      "description": "Background preventable fraction in high-income countries",
+      "source": "GLP-1 background baseline"
+    },
+    "lambda_bz": {
+      "value": 0.5,
+      "unit": "year^-1",
+      "model": 1,
+      "description": "Biological Zero-Day (BZM) jump process frequency",
+      "source": "Two BZM events in 5 months (ER-100 Jan 2026; NewLimit Jun 2026)"
+    },
+    "mu_J": {
+      "value": 0.008,
+      "unit": "dimensionless",
+      "model": 1,
+      "description": "Expected magnitude of preventable fraction jump per BZM event",
+      "source": "GLP-1 cardiovascular reclassification natural experiment"
+    },
+    "k": {
+      "value": 6,
+      "unit": "persons",
+      "model": 1,
+      "description": "Kinship multiplier (core intimate social network)",
+      "source": "Dunbar (1992), Fischer (1982), Marsden (1987)"
+    },
+    "lambda_grief": {
+      "value": 0.516,
+      "unit": "year^-1",
+      "model": 1,
+      "description": "Grief decay rate (Bonanno resilience cohort, 35% prolonged grief non-decaying)",
+      "source": "Bonanno (2004) loss and trauma longitudinal studies"
+    },
+    "lambda_threat": {
+      "value": 0.15,
+      "unit": "year^-1",
+      "model": 1,
+      "description": "Threat-activation rate for kin preservation",
+      "source": "Bowlby (1969, 1973) attachment and loss"
+    },
+    "alpha": {
+      "value": 3.0,
+      "unit": "dimensionless",
+      "model": 1,
+      "description": "Social media network amplification factor",
+      "source": "Arab Spring, BLM transnational spread empirical dynamics"
+    },
+    "alpha_e": {
+      "value": 0.1,
+      "unit": "year^-1",
+      "model": 1,
+      "description": "Environmental dissipation rate in Love-Activation Field",
+      "source": "Model 1 specification"
+    },
+    "G_star": {
+      "value": 2000000000.0,
+      "unit": "grievance units",
+      "model": [1, 3, 10, 13],
+      "description": "Political activation threshold for civilizational mobilization",
+      "source": "Calibrated to historical systemic revolutions (French, Russian, Arab Spring)"
+    },
+    "b_biologics": {
+      "value": 0.15,
+      "unit": "dimensionless",
+      "model": [2, 8],
+      "description": "Wright's Law learning exponent for biologics",
+      "source": "Biologics manufacturing literature (Scannell et al. 2012)"
+    },
+    "b_compute": {
+      "value": 0.50,
+      "unit": "dimensionless",
+      "model": 8,
+      "description": "Wright's Law learning exponent for compute hardware (Moore's Law)",
+      "source": "Empirical semiconductor data"
+    },
+    "C0": {
+      "value": 0.10,
+      "unit": "fraction of initial price",
+      "model": 2,
+      "description": "Biological manufacturing cost floor (GMP minimum constraint)",
+      "source": "Bioprocess engineering literature"
+    },
+    "sigma0": {
+      "value": 0.02,
+      "unit": "year^-1",
+      "model": [6, 6.5],
+      "description": "Baseline legitimacy decay sensitivity",
+      "source": "Edelman Trust Barometer historical regressions"
+    },
+    "chi": {
+      "value": 0.50,
+      "unit": "dimensionless",
+      "model": 6.5,
+      "description": "Elite-governance overlap amplification factor",
+      "source": "Weimar Republic and French Third Republic comparisons"
+    },
+    "kappa_RAP": {
+      "value": 0.10,
+      "unit": "year^-1",
+      "model": 3,
+      "description": "Reform Acceleration Paradox sensitivity parameter",
+      "source": "GLP-1 Congressional engagement doubling in 6 months"
+    },
+    "kappa_W": {
+      "value": 0.30,
+      "unit": "dimensionless",
+      "model": 5,
+      "description": "Welfare insolvency legitimacy decay amplification",
+      "source": "European sovereign debt crisis trust dynamics"
+    },
+    "W_crit": {
+      "value": 0.70,
+      "unit": "fraction of baseline",
+      "model": 5,
+      "description": "Critical welfare solvency yellow-flag threshold",
+      "source": "IMF sovereign risk framework"
+    },
+    "beta_W": {
+      "value": 2.0,
+      "unit": "dimensionless",
+      "model": 5,
+      "description": "Superlinear scaling exponent of actuarial burden",
+      "source": "Joint scaling of longevity beneficiary count and extended duration"
+    },
+    "Lambda_crit": {
+      "value": 20.0,
+      "unit": "dimensionless",
+      "model": 7,
+      "description": "Regulatory capacity saturation threshold (FM2)",
+      "source": "2006-2007 structured credit regulatory saturation (FCIC)"
+    },
+    "kappa_F": {
+      "value": 0.15,
+      "unit": "year^-1",
+      "model": 12,
+      "description": "Intra-elite fracture generation rate",
+      "source": "Harmonic mean of historical multi-faction civil fractures"
+    },
+    "lambda_F": {
+      "value": 0.05,
+      "unit": "year^-1",
+      "model": 12,
+      "description": "Intra-elite consolidation/re-integration rate",
+      "source": "Historical institutional consolidation records"
+    },
+    "xi": {
+      "value": 0.25,
+      "unit": "fraction",
+      "model": 12,
+      "description": "Destabilization fraction of secondary elites",
+      "source": "Pre-revolutionary French minor nobility records (Schama 1989)"
+    },
+    "delta_E": {
+      "value": 0.30,
+      "unit": "year^-1",
+      "model": [9, 12],
+      "description": "Annual therapy re-administration requirement fraction",
+      "source": "Early gene therapy cohort empirical clinical trials"
+    },
+    "kappa_B": {
+      "value": 0.10,
+      "unit": "year^-1",
+      "model": 13,
+      "description": "Conservative basin-boundary coupling parameter",
+      "source": "Lyapunov stability margin"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+drug_name,approval_year,initial_price_usd,current_price_usd,target_condition,manufacturing_type
+Kymriah,2017,475000,475000,B-cell ALL,Autologous CAR-T cell therapy
+Luxturna,2017,850000,850000,Retinal dystrophy,AAV2 gene therapy
+Zolgensma,2019,2125000,2125000,Spinal muscular atrophy,AAV9 in vivo gene therapy
+Hemgenix,2022,3500000,3500000,Hemophilia B,AAV5 viral vector
+Elevidys,2023,3200000,3200000,Duchenne muscular dystrophy,AAVrh74 vector
+Lenmeldy,2024,4250000,4250000,Metachromatic leukodystrophy,Autologous CD34+ cell therapy

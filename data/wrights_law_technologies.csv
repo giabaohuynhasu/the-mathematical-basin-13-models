@@ -1,0 +1,7 @@
+technology,b_exponent,cost_reduction_per_doubling,empirical_status,notes
+Compute hardware,0.50,29.3%,Moore's Law confirmed,Exponential scaling driven by lithography
+Solar panels,0.32,20.0%,Swanson's Law confirmed,Continuous manufacturing scale
+Lithium-ion batteries,0.18,11.8%,Wright (1936) confirmed,Material cost floor limits steep declines
+Biologics (literature estimate),0.15,9.9%,Upper bound for Model 8,Protein folding and sterile bioreactor constraints
+Gene therapies (Kymriah 2017-2024),0.00,0.0%,7 years zero price reduction,Custom autologous cell manufacturing
+Gene therapies (Multi-product cohort),-0.10,Increasing,Price rose $2.1M -> $3.5M -> $4.25M,Zolgensma -> Hemgenix -> Lenmeldy
