@@ -1,3 +1,23 @@
+---
+pretty_name: "The Mathematical Basin: Thirteen Formal Models"
+language:
+- en
+license: mit
+tags:
+- formal-models
+- longevity-asymmetry
+- governance
+- ai-governance
+- queueing-theory
+- lyapunov-stability
+- replication
+task_categories:
+- tabular-regression
+- time-series-forecasting
+size_categories:
+- 1K<n<10K
+---
+
 # The Mathematical Basin: Thirteen Formal Models of Longevity Asymmetry, Structural Lock-in, and Institutional Dissolution
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
