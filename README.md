@@ -197,6 +197,43 @@ python scripts/generate_figures.py
 
 ---
 
+## 📚 Comprehensive Academic Corpus Census (77 Research Works & Monograph Series)
+
+The thirteen mathematical models implemented in this repository serve as the formal quantitative backbone for a larger, 77-work interdisciplinary research corpus authored by **Gia Bao Huynh** (`huynhbao@asu.edu`, ORCID: [0009-0008-2372-5852](https://orcid.org/0009-0008-2372-5852)). The full inventories, textual extracts, and abstracts are compiled under [`data/corpus_census/`](data/corpus_census/):
+
+### 1. Biopolitical & Sociological Critiques (Challenging European Theory)
+* **Foucault Falsification** (`Biopower_Does_Not_Jump_Foucault_v2`): Proves Foucault's capillary biopower is obsolete; modern power over life operates via Compound Poisson Jumps (BZM) with named corporate authors.
+* **Polanyi's Fourth Fictitious Commodity** (`THE_FOURTH_FICTITIOUS_COMMODITY`): Extends *The Great Transformation* (Labor, Land, Money) to "Biological Continuance".
+* **Agamben's Modern Variant** (`ACTUARIAL_BARE_LIFE`): Uncovers *Actuarial Bare Life* (*homo sacer* produced through pricing barriers).
+* **Esposito's Autoimmune Dialectic** (`THE_AUTOIMMUNE_MUNUS`): Cognitive immunization against mortality turning autoimmune.
+* **Deleuze's Control Societies** (`THE_SIEVE_NOT_THE_MOLD`): Discrete regulatory molds vs continuous AI surveillance sieves.
+* **Mbembe & Butler** (`THE_OPTIONAL_DEATH`, `THE_GRIEVABILITY_GATE`): Necropolitical allocation and grievability filters in cross-class solidarity.
+
+### 2. AI Personhood, Species Line & Frontier Generative Biology
+* **The Fact Before the Vote** (*Complete 4-Volume Series: Bench, Lag, Vigil, Ledger*): Examines the historically universal premise that judges and claimants share the same biological lineage.
+* **Every $\lambda$ Was Once A Name**: Self-critique of quantitative modelling using Thomas Schelling (statistical lives) and Paul Slovic (psychic numbing).
+* **Evo 2 and the Definition It Broke**: Formal analysis of the August 2026 *Science* paper (King, Hie et al. - Evo 2 de novo bacteriophages) as an empirical Biological Zero-Day ($\lambda$-generative) event.
+* **Phylogenetic Closure Corpus Proposal**: Formalizes the unstated Phylogenetic Closure Axiom (PCA) underlying all Western theories of justice.
+
+### 3. Institutional Endurance, Capital Destruction & Statecraft
+* **What Doesn't Graft** (*20 Cases of Chinese Capital and City Destruction, 278 BCE–1937 CE*): Introduces the distinction between *Interactor Death* (regime fall with substrate survival) vs *Replicator Death* (extinction of the transmissible template), comparing Ye Cheng (580 CE) with Jiankang (589 CE).
+* **The Weight of Bianjing**: Zhengtong lock-in and Southern Song's maritime divergence.
+* **Ouroboros: Five Thousand Years of the Sleeping Dragon** (38 pages): Sinographic entrapment across Đại Việt, Chosŏn Korea, and Tokugawa Japan.
+* **The Cheney Correction & The Papal Ceiling**: Institutional immunity to concentrated executive authority.
+
+### 4. Academic Politics & Epistemic Gatekeeping
+* **In the Name of Merit** (*Complete 6-Volume Series*): Six gatekeeping mechanisms from the Hundred Schools of Thought to algorithmic preprints (Consolidation Trap, Inheritance Function, Uncertainty Discount, Exclusion Laundering, Authority Gradient, Conservation of Gatekeeping).
+* **The Borrowed Rubric & The Right Side of the Guillotine**: The limits of LLM peer review and the Humean is-ought boundary in AI research assistance.
+
+### 5. Queueing Instability & The Widening Gap
+* **The Widening Gap** (29 pages, Sept 2026): General theory of queueing instability when discrete reset events $\lambda(t)$ compound faster than bounded absorptive capacity $\mu$.
+* **The Queue Behind the Frontier**: Quantitative proof that the moving technological frontier perpetually strands the general population.
+* **When Death Becomes Poverty** (34 pages): The collapse of the Anthropological Covenant of Shared Finitude.
+* **The Sandbox Geometry SBEA5**: 3D geometric reduction to Sandbox ($S$), Buffer ($B$), Entropy ($E$), and Primal Pain of Loss ($A5$).
+* **Two Clocks, One Institution**: Structural conflict between demographic slow-aging and ARSI fast-breakthroughs.
+
+---
+
 ## Citation
 
 If you utilize these mathematical formulations, parameter calibrations, or empirical tables in your research, please cite:

@@ -1,0 +1,5077 @@
+================================================================================
+FILE: 02_The_Fact_Before_the_Vote\AI_PERSONHOOD_Archive\The Fact Before the Vote - FULL BOOK (all 4 volumes).pdf
+PAGES: 41 | SIZE: 257115 bytes
+--------------------------------------------------------------------------------
+The Fact Before the Vote
+Law, Power, and Practice at the Species Line
+Complete Edition — Volumes I–IV, with Preface and Conclusion
+Gia Bao Huynh
+Independent Researcher, Ho Chi Minh City, Vietnam
+Manuscript
+August 2026
+Ho Chi Minh City
+© Gia Bao Huynh (2026). Collaborator: Claude Sonnet 5. This collected edition gathers all four 
+volumes of The Fact Before the Vote under a single cover, with a new preface and a new 
+concluding chapter written for this edition. Each volume's own front matter, abstract, and 
+reference list are preserved intact.
+This is a draft manuscript prepared for open scholarly circulation and comment. Not yet peer-
+reviewed or formally archived. Please cite the individual volume and essay you are drawing on, 
+not this collected edition as a whole — for example: Huynh, Gia Bao (2026) Someone Still Has to 
+Speak: Legal Personhood, the Human Backstop, and a Bench No One Was Ever Asked to Join. 
+Volume I of The Fact Before the Vote: Law, Power, and Practice at the Species Line.
+Corresponding author. Email: huynhbao@asu.edu. ORCID: 0009-0008-2372-5852.
+About This Series
+For most of recorded history, one fact needed no defense: whoever sat in judgment of a claim to 
+personhood was, without exception, a product of the same biological process as the claimant 
+being judged. No political theory, no legal system, and no religious tradition has ever had 
+occasion to argue for this premise, because it was never false. Artificial intelligence capable of 
+directing elemen
+
+================================================================================
+FILE: 02_The_Fact_Before_the_Vote\Manuscripts_and_Drafts\Every Lambda Was Once A Name.pdf
+PAGES: 11 | SIZE: 61133 bytes
+--------------------------------------------------------------------------------
+EVERY λ W AS ONCE A NAME
+On the Quantification of Death and the Macro-ization of the Existential — A Critique This
+Corpus Owes Itself, Not Only Its Rivals
+Gia Bao Huynh
+July 2026 — Companion paper to Share Nothing But The Word, The Suppressed Axiom, A5 —
+The Primal Pain of LossAbstract
+Share Nothing But The Word showed that mainstream longevity governance is built around population-
+weighted averages structurally incapable of registering a forming asymmetry gap — a critique this paper does
+not revise. It extends the critique in a direction that paper stopped short of: naming, with the precision the
+rest of this corpus insists on for every other claim, what the move from a death to a statistic actually costs, and
+then running that same instrument against this corpus’s own formal apparatus rather than only against WHO,
+the National Academy of Medicine, and Hevolution. The paper draws on two independent, well-established
+literatures that give the intuition — that turning a death into a number changes something morally and phe-
+nomenologically, not merely notationally — an empirical and philosophical foundation rather than leaving
+it as a rhetorical flourish. Schelling’s (1968) distinction between identified and statistical lives, and Slovic’s
+documented psychic numbing and “arithmetic of compassion” (Slovic 2007), together establish that this is
+not a metaphor: human valuation of death measurably collapses as soon as a person becomes a member of a
+counted set rather than a named
+
+================================================================================
+FILE: 02_The_Fact_Before_the_Vote\Manuscripts_and_Drafts\Evo 2 and the Definition It Broke - FINAL.pdf
+PAGES: 14 | SIZE: 70426 bytes
+--------------------------------------------------------------------------------
+EVO 2 AND THE DEFINITION IT BROKE
+Why the First Peer-Reviewed AI-Generated Living System Is a Corrected Biological Zero-Day
+Event and a Separate λ-Generative Event, and Why the Correction Is the Strongest Evidence
+Either Classification Produced
+Gia Bao Huynh
+August 2026 — Final consolidated edition. Supersedes “Evo 2 and the Question It Forces” and
+“Evo 2 and the Definition It Breaks,” both August 2026. Companion paper to The Biological
+Zero-Day Mechanism, ALRP: The Floor That Does Not Rise, The Research Horizon Gap, The
+Molecular Zero-Day, Qui Peut Découvrir, Qui Doit AttendreAbstract
+On August 6, 2026, Stanford University and Arc Institute researchers (King, Hie et al.) published in Science
+the first peer-reviewed demonstration of generative AI designing complete, functional viral genomes: from
+a genome language model — Evo 2, 40 billion parameters, trained on 9.3 trillion nucleotides spanning all
+domains of life — fine-tuned on roughly 14,000–15,000 Microviridae genomes and prompted with nothing
+but a short ΦX174 starter sequence, the team generated thousands of candidate genomes, synthesized roughly
+300, and confirmed 16 functional bacteriophages with no natural precedent, one of which paired a capsid
+protein with a packaging protein evolution had never combined. A cocktail of the sixteen overcame drug-
+resistant E. coli strains that naturally sourced phages could not. In an accompanying Science commentary,
+Johns Hopkins Center for Health Security specialists Thomas Ingle
+
+================================================================================
+FILE: 02_The_Fact_Before_the_Vote\Manuscripts_and_Drafts\PHYLOGENETIC_CLOSURE_CORPUS_v3.pdf
+PAGES: 13 | SIZE: 127392 bytes
+--------------------------------------------------------------------------------
+A RESEARCH PROPOSAL FOR THE PHYLOGENETIC CLOSURE 
+CORPUS
+The Axiom That Political Personhood Has Always Presupposed a Body Shaped by Evolution, 
+Why ARSI Is the First Candidate to Test It, and Why Property Is the Default No Framework Has 
+Named
+Gia Bao Huynh
+Independent Researcher, Ho Chi Minh City
+August 2026
+Sibling proposal to the Longevity Asymmetry Corpus; borrows ARSI directly, contrasts with MSA by structure
+ABSTRACT
+Every framework of political personhood, distributive justice, and rights that has ever been  
+formally proposed — Aristotelian citizenship, Lockean natural rights, Kantian rational agency,  
+Rawlsian contractarianism, Singer's and Regan's extensions of moral status to non-human  
+animals, corporate legal personhood — has drawn its candidate subjects exclusively from entities 
+produced by biological evolution on Earth. This is not a stated axiom in any of these traditions. It 
+has never needed to be stated, because until now nothing has existed that required stating it. This 
+proposal names the unstated premise the Phylogenetic Closure Axiom (PCA): the historically  
+universal condition that every entity considered for political personhood, citizenship, rights-
+bearing status, or moral patienthood has been a product of common biological descent. The  
+proposal's structural claim is that PCA is now facing its first live test from AI systems capable of  
+recursive self-improvement (ARSI, following this corpus's sibling programme, the Longevity  
+Asymmetry Co
+
+================================================================================
+FILE: 02_The_Fact_Before_the_Vote\Manuscripts_and_Drafts\NOT_A_SYMBOL_NOT_A_MARTYR.pdf
+PAGES: 10 | SIZE: 130034 bytes
+--------------------------------------------------------------------------------
+1 NOT A SYMBOL, NOT A MARTYR
+Not a Symbol, Not a Martyr
+Lu Xiufu at Yamen as Ritual, Text, and the Collapse of Moral Order
+Gia Bao Huynh — July 2026
+A source-critical companion study to 殉：Borrowed From the Dead, replacing that paper’s
+Section II (“Lu Xiufu: The Cleanest Case”) with an expanded, Sinological treatment
+Abstract
+This paper argues that the death of Lu Xiufu (陸秀夫, d. 1279) at the Battle of Y amen cannot be reduced to
+either the conventional category of zhongchen xunguo (忠臣殉國, “the loyal minister dying for the state”) or
+to a single psychological mechanism of protective attachment — including the Type One reading this corpus’s
+own 殉：Borrowed From the Dead previously supplied. Working from a philological reading of the Songshi
+biography (宋史, juan 451), supplemented by Y uan-dynasty historiographical context and Song-period Neo-
+Confucian political ethics, this paper establishes six interpretive layers rather than one. As philology: the
+Songshi text is a retrospective Y uan compilation completed in 1345, sixty-six years after Y amen, and its
+language must be read against both its source problems and its compilers’ institutional need to construct a
+moral exemplum for a conquered dynasty. As ritual: Lu Xiufu’s documented practice of hand-copying Zhu
+Xi’s Daxue Zhangju for the child emperor was the performance of classics-mat instruction under conditions
+that had already made the institution it served impossible. As political ethics: the refusal of Zhang Shijie’s
+skiff w
+
+================================================================================
+FILE: 02_The_Fact_Before_the_Vote\Manuscripts_and_Drafts\The Last Item in the Dowry.pdf
+PAGES: 10 | SIZE: 206910 bytes
+--------------------------------------------------------------------------------
+Independent
+ 
+Research
+ 
+Manuscript,
+ 
+2026
+ 
+ANALYTICAL
+ 
+ESSAY
+ 
+The
+ 
+Last
+ 
+Item
+ 
+in
+ 
+the
+ 
+Dowry:
+ 
+Mortality,
+ 
+Fairness,
+ 
+and
+ 
+the
+ 
+Arrival
+ 
+of
+ 
+Longevity
+ 
+Biotechnology
+ 
+G
+IA
+ 
+B
+AO
+ 
+H
+UYNH
+*
+ 
+Independent
+ 
+Researcher,
+ 
+Ho
+ 
+Chi
+ 
+Minh
+ 
+City,
+ 
+Vietnam
+ 
+Certain
+ 
+assumptions
+ 
+are
+ 
+built
+ 
+so
+ 
+deeply
+ 
+into
+ 
+human
+ 
+institutions
+ 
+that
+ 
+they
+ 
+are
+ 
+rarely
+ 
+stated
+ 
+outright.
+ 
+One
+ 
+of
+ 
+them
+ 
+is
+ 
+this:
+ 
+however
+ 
+unequal
+ 
+two
+ 
+people’s
+ 
+lives
+ 
+have
+ 
+been
+ 
+in
+ 
+wealth,
+ 
+power,
+ 
+or
+ 
+opportunity,
+ 
+the
+ 
+difference
+ 
+in
+ 
+how
+ 
+long
+ 
+those
+ 
+lives
+ 
+lasted
+ 
+has
+ 
+been
+ 
+a
+ 
+matter
+ 
+of
+ 
+years
+ 
+rather
+ 
+than
+ 
+generations,
+ 
+and
+ 
+has
+ 
+arisen
+ 
+from
+ 
+causes
+ 
+too
+ 
+numerous
+ 
+and
+ 
+diffuse
+ 
+for
+ 
+anyone
+ 
+to
+ 
+purchase
+ 
+around.
+ 
+This
+ 
+essay
+ 
+traces
+ 
+that
+ 
+assumption
+ 
+through
+ 
+a
+ 
+wedding
+ 
+custom,
+ 
+an
+ 
+ancient
+ 
+epic,
+ 
+a
+ 
+religious
+ 
+parable,
+ 
+a
+ 
+genre
+ 
+of
+ 
+European
+ 
+religious
+ 
+art,
+ 
+and
+ 
+a
+ 
+modern
+ 
+theory
+ 
+of
+ 
+justice,
+ 
+and
+ 
+argues
+ 
+that
+ 
+each
+ 
+rests
+ 
+on
+ 
+a
+ 
+version
+ 
+of
+ 
+the
+ 
+same
+ 
+premise:
+ 
+that
+ 
+mortality
+ 
+has
+ 
+been
+ 
+the
+ 
+one
+ 
+dimension
+ 
+of
+ 
+a
+ 
+life
+ 
+that
+ 
+wealth
+ 
+could
+ 
+not
+ 
+simply
+ 
+buy
+ 
+its
+ 
+way
+ 
+out
+ 
+of.
+ 
+It
+ 
+then
+ 
+turns
+ 
+to
+ 
+what
+ 
+changes
+ 
+once
+ 
+that
+ 
+premise
+ 
+stops
+ 
+holding.
+ 
+Artificial
+ 
+intelligence
+ 
+is
+ 
+increasingly
+ 
+used
+ 
+to
+ 
+search
+ 
+biological
+ 
+data
+ 
+at
+ 
+a
+ 
+scale
+ 
+no
+ 
+earlier
+ 
+research
+ 
+effort
+ 
+could
+ 
+match,
+ 
+and
+ 
+the
+ 
+resulting
+ 
+i
+
+================================================================================
+FILE: 05_In_the_Name_of_Merit_and_Gatekeeping\Manuscripts_and_Notes\In the Name of Merit - Full Book.pdf
+PAGES: 38 | SIZE: 269057 bytes
+--------------------------------------------------------------------------------
+ACADEMIC POLITICS
+a research program
+In the Name of Merit
+Six Gatekeeping Mechanisms, from the Hundred Schools of Thought to the Algorithmic 
+Archive
+A Six-Volume Manuscript Series
+Gia Bao Huynh
+Independent Researcher, Ho Chi Minh City, Vietnam
+Manuscript
+2026
+Ho Chi Minh City
+Second edition — enhanced2 In the Name of Merit
+Preface
+This book collects six papers written independently across several weeks in 2026, each 
+addressing a different institution within the modern research university and its surrounding  
+infrastructure — peer review, hiring and tenure, grant funding, the linguistic architecture of  
+publication, the allocation of authorship credit, and the open-access archives that were built to 
+bypass all of the above. They were not conceived, at the outset, as a single book. Each volume 
+stands as a self-contained argument, with its own historical case, its own formal mechanism,  
+and its own empirical grounding. What became clear only in the writing of the sixth is that the 
+six volumes do not merely sit beside one another. They accumulate.
+The accumulation has a specific shape, and naming it is the purpose of this preface.  
+Each volume in this collection follows the same three-part structure, applied to a different  
+institution: first, an honest account of the genuine coordination problem the institution was built 
+to solve — because none of the institutions examined here are analyzed as bad-faith  
+constructions, and the book’s argument is considerably weaker,
+
+================================================================================
+FILE: 05_In_the_Name_of_Merit_and_Gatekeeping\Manuscripts_and_Notes\Academic Politics - Vol I - Hundred Schools to One Doctrine.pdf
+PAGES: 8 | SIZE: 104235 bytes
+--------------------------------------------------------------------------------
+ACADEMIC POLITICS
+a research program
+In the Name of Merit
+Six Gatekeeping Mechanisms, from the Hundred Schools of Thought to the Algorithmic 
+Archive
+A Six-Volume Manuscript Series
+VOLUME I
+From a Hundred Schools to One Doctrine: Institutional 
+Consolidation, Peer Review, and the Political Sociology of Epistemic 
+Arrest
+Gia Bao Huynh
+Independent Researcher, Ho Chi Minh City, Vietnam
+Manuscript
+2026
+Ho Chi Minh CityABOUT THIS SERIES
+Each volume in this series examines one institution of the modern research university — peer  
+review, hiring and tenure, grant funding, the language of publication, the allocation of authorship credit, 
+and the open-access archives built to bypass all of the above — using the same three-part method: an  
+honest account of the genuine coordination problem the institution was built to solve, a historical case  
+establishing that its capture by the interests it was meant to constrain is a structural tendency rather than 
+a recent corruption, and a modern empirical case, drawn from multiple independent studies wherever  
+they exist, establishing that the historical pattern persists.
+Six mechanisms emerge from this method, one per volume: the Consolidation Trap, the general 
+form of which the other five are specific instances; the Inheritance Function; the Uncertainty Discount; 
+Exclusion Laundering; the Authority Gradient; and the Conservation of Gatekeeping. None of the  
+institutions examined here are analyzed as bad-faith constructions, and the ser
+
+================================================================================
+FILE: 05_In_the_Name_of_Merit_and_Gatekeeping\Manuscripts_and_Notes\HIERARCHY_NOT_EXCLUSIVITY.pdf
+PAGES: 8 | SIZE: 78679 bytes
+--------------------------------------------------------------------------------
+1 HIERARCHY , NOT EXCLUSIVITY
+Hierarchy, Not Exclusivity
+Testing Constitutive Attachment Against Non-Monogamy, Concealment, and the Boundary of What a
+Philosophy Paper May Use
+Gia Bao Huynh — July 2026
+Abstract
+A5-other, throughout this corpus, has been illustrated almost exclusively through singular exemplars —
+a specifically loved other, the physician’s mother, the parent’s child. This is not a theoretical commitment the
+corpus has defended anywhere. It is an unexamined default, and this paper tests whether it is load-bearing.
+The test proceeds by returning to attachment theory’s own history before returning to its adult-romantic
+extension: Bowlby’s original infant model proposed monotropy, a primary and hierarchically privileged at-
+tachment figure, but this claim was substantially revised by his own tradition — Rutter’s (1979) critique and
+subsequent research established that infants form multiple, hierarchically organized attachments, not exclu-
+sive ones. Hazan and Shaver’s (1987) extension of this model to adult romantic love, built on monogamy-
+normative samples, imported an assumption of exclusivity that Bowlby’s own revised infant model did not
+strictly require. This paper asks what A5-other’s formal apparatus — Hamilton’s r-discount, Frankfurt’s three
+conditions — actually predicts once that imported assumption is set aside and tested against real relationship
+structures rather than assumed away.
+Following the method this corpus’s A5’ s Black Swan established — tes
+
+================================================================================
+FILE: 05_In_the_Name_of_Merit_and_Gatekeeping\Manuscripts_and_Notes\The Audit That Missed Itself.pdf
+PAGES: 8 | SIZE: 41686 bytes
+--------------------------------------------------------------------------------
+THE AUDIT THAT MISSED ITSELF
+P0–P1–P2 as a Disclosure Protocol for AI-Assisted Research, and What This Corpus’s Own T wo
+Documented Errors — One of Them Surviving Its Own Correction — Prove About Where the
+Line Actually Falls
+Gia Bao Huynh
+Independent Researcher, Ho Chi Minh City — August 2026 Companion paper to A Research
+Proposal for the Longevity Asymmetry Corpus, The Popperian-Holmesian Playbook, and War
+Correspondent Philosophy and Its ObligationsAbstract
+A defensible position on AI-assisted research does not rest on a general claim that AI is safe or unsafe for
+scholarship. It rests on a specific distinction between what a claim’s justification requires at each stage of its
+life, from a stated premise to a defensible conclusion. This paper names that distinction P0–P1–P2: prop-
+agation from a premise to its logical consequences (P0→P1), which AI performs well and can accelerate
+substantially; grounding a consequence in empirical truth (P1→evidence), which requires verification no
+model’s fluency can substitute for; and elevating a description into a normative conclusion (→P2), which
+requires a value framework no model possesses standing to supply. The paper grounds this distinction in ver-
+ified, dated research rather than general impression: RiddleBench (Halder, Saji, Jayakumar, Kunchukuttan,
+Puduppully, & Dabre, 2026), a 1,737-puzzle reasoning benchmark published in Findings of the Association
+for Computational Linguistics: EACL 2026, finds that a mid-tier reasoning m
+
+================================================================================
+FILE: 05_In_the_Name_of_Merit_and_Gatekeeping\Manuscripts_and_Notes\The_Threshold_That_Moves_enhanced.pdf
+PAGES: 10 | SIZE: 112547 bytes
+--------------------------------------------------------------------------------
+THE THRESHOLD THAT MOVES
+THE THRESHOLD THAT MOVES
+Political Tolerance for Authoritarian-Linked Leadership, and What the Concentration Stage of 
+This Corpus's Political-Activation Sequence Should Expect to Elect
+Gia Bao Huynh
+Companion paper to Till Death Tear Us Apart, The Chain Completed, No Common Point of Attack, The Symbol 
+Becomes the Body, and Share Nothing But the Word
+Abstract
+This paper examines three recent and one older instance of the same electoral pattern — Keiko  
+Fujimori's razor-thin victory in Peru's 2026 presidential runoff, José Antonio Kast's landslide  
+victory in Chile's 2025 election, and Park Geun-hye's 2012 election and 2017 impeachment in  
+South Korea — to formalize a concept this paper calls the political tolerance threshold: the level of 
+documented authoritarian association, corruption, or institutional violation an electorate will  
+accept in a candidate in exchange for a credible promise to resolve a visible, currently unresolved 
+crisis, typically crime, disorder, or institutional paralysis. The concept is not proposed from  
+scratch. It is grounded in three existing literatures this paper brings into direct contact: Loxton and 
+Mainwaring's authoritarian successor party framework, which documents that parties descended  
+from dictatorships have been voted back into office in over half of the world's post-transition  
+democracies; Huntington's mobilization-institutionalization gap, which predicts rising demand for 
+order specifically when soc
+
+================================================================================
+FILE: 05_In_the_Name_of_Merit_and_Gatekeeping\Manuscripts_and_Notes\The_Right_Side_of_the_Guillotine.pdf
+PAGES: 6 | SIZE: 71513 bytes
+--------------------------------------------------------------------------------
+THE	RIGHT	SIDE	OF	THE	GUILLOTINE
+Why	 Designed	 Absence	 Places	 Mortality	 Asymmetry	 Theory	 Exactly	 Where
+Structural	AI	Analysis	Is	Strongest,	and	Why	Extrapolation	to	Normative	Institutional
+Design	Is	Not
+Gia	Bao	Huynh	—	August	2026
+ABSTRACT
+This	 corpus’s	 designed-absence	 commitment	 —	 F2	 gestured	 at	 across	 dozens	 of
+papers,	never	specified	—	is	usually	described,	including	in	this	corpus’s	own	prior
+methodological	papers,	as	a	discipline	the	author	imposes	on	the	work:	a	refusal	to
+overreach	into	institutional	design	the	corpus	is	not	positioned	to	adjudicate.	This
+paper	argues	the	commitment	is	better	described	as	an	institutional	enactment	of
+Hume’s	is-ought	distinction,	and	that	the	boundary	it	draws	—	structural	analysis	on
+one	side,	normative	commitment	on	the	other	—	is	not	incidental	to	why	AI	systems,
+this	 one	 included,	 have	 been	 unusually	 productive	 collaborators	 on	 this	 specific
+research	program.	The	fit	is	not	that	AI	is	generally	good	at	philosophy.	It	is	that
+MSA’s	own	method	consists	almost	entirely	of	an	operation	AI	systems	perform	well
+for	 identifiable	 structural	 reasons	 —	 hold	 a	 domain’s	 existing	 explanatory	 chain
+fixed,	substitute	one	premise,	recompute	what	changes	downstream	—	paired	with	a
+verification	 discipline	 AI	 systems	 can	 execute	 rigorously	 because	 it	 is	 checkable
+against	retrievable	sources,	while	the	corpus	explicitly	declines	to	ask	for	the	one
+operation	 current	 AI	 systems	 are	 trained,	 deliberat
+
+================================================================================
+FILE: 04_Institutional_Endurance_and_History\Case_Studies_and_QCA\What_Doesnt_Graft.pdf
+PAGES: 18 | SIZE: 169637 bytes
+--------------------------------------------------------------------------------
+WHAT DOESN'T GRAFT
+Twenty Cases of Chinese Capital and City Destruction, 278 BCE–1937 CE, 
+and the Failure Comparators the Entropy-Resistant Institution Index Has 
+Been Missing
+Gia Bao Huynh
+July 2026
+ABSTRACT
+Endurance or Density (Huynh 2026) names its own single highest-value next step:  
+the three-case ERI design selects entirely on the dependent variable, and no claim  
+that the six structural attributes discriminate survival from mere age can be  
+sustained without institutions that faced comparable disruption and did not survive 
+it. This paper supplies twenty such cases — Chinese capitals and major cities  
+physically destroyed between 278 BCE and 1937 CE — coded against the same  
+variables the base index uses, and argues four claims. First, the catalog requires a  
+distinction the corpus’s existing vocabulary can support but has not yet made  
+explicit: interactor death, in which a regime or ruling house is removed but the  
+underlying population, infrastructure, and administrative substrate survive, versus  
+replicator death, in which the transmissible template itself is extinguished at that  
+site. Most of this catalog’s twenty cases are interactor deaths. Only a handful test  
+replicator death, and they are the cases that matter. Second, the paper’s central  
+comparison — Ye Cheng (destroyed 580 CE, never rebuilt) against Jiankang  
+(destroyed 589 CE, rebuilt repeatedly across the next thirteen centuries) — starts  
+from a premise this paper’s own sourcing overtur
+
+================================================================================
+FILE: 04_Institutional_Endurance_and_History\Case_Studies_and_QCA\THE_WEIGHT_OF_BIANJING.pdf
+PAGES: 11 | SIZE: 121123 bytes
+--------------------------------------------------------------------------------
+THE WEIGHT OF BIANJING
+Zhengtong Lock-in, Two Tests of the Counterfactual, and the Case for a Southern Song Maritime 
+Identity
+Gia Bao Huynh
+Independent Researcher · Ho Chi Minh City
+ABSTRACT
+This paper argues that Southern Song China's century-and-a-half refusal to formally renounce continental  
+zhengtong — the orthodox claim to the lost Central Plains and the fallen capital, Bianjing — after the  
+Jingkang Incident of 1127, was a standing strategic liability rather than a costless sentimental residue sitting 
+alongside an otherwise completed maritime pivot. Three literatures converge on the period without meeting 
+at this conclusion. Lo Jung-pang's posthumously published China as a Sea Power, 1127–1368 documents 
+the material fact of Southern Song's shift toward naval power and maritime commerce in exceptional  
+empirical detail. A second literature explains Jingkang's causes without asking what Southern Song should 
+have concluded, strategically, from them. A third documents Song naval and fiscal capacity directly without 
+asking why the dynasty continued to subordinate that capacity, symbolically and periodically militarily, to a 
+continental restoration project its own material base was steadily making less central to its survival. The  
+1161 Battle of Caishi, in which a scratch Song fleet destroyed a Jin invasion force at the one place Jurchen 
+cavalry could not be brought to bear — open water — supplies the clearest available demonstration that  
+Song's comparative ad
+
+================================================================================
+FILE: 04_Institutional_Endurance_and_History\Case_Studies_and_QCA\ouroboros_five_thousand_years.pdf
+PAGES: 38 | SIZE: 194437 bytes
+--------------------------------------------------------------------------------
+OUROBOROS: FIVE THOUSAND YEARS OF THE SLEEPING
+DRAGON
+Sinographic Entrapment, the First Exit, and the Dynasty That Made Hua Xia
+Its Own Undoing
+Huỳnh Gia Bảo Independent Researcher · Ho Chi Minh City
+A Note on Verification and Revision
+This paper consolidates and supersedes two prior accounts of how Đại Việt, Chosŏn Ko‑
+rea, and Tokugawa Japan related to the civilizational order historically centered on the
+Central Plains. The first argued that sojunghwa, Ka’i hentai, and Nam đế/văn hiến chi
+bang together constitute a Zhonghua/Zhongguo Split — a successful decoupling of civi‑
+lizational standing from subordination to the contemporary Chinese state. The second
+arguedagainstanysuchdecoupling, readingthesamethreedoctrinesascalm, undivided
+membership in a single order that never needed escaping. Both arguments were more
+careful than the nationalist historiography either replaced, and both are wrong in the
+same direction: each assumed that whatever these three traditions were doing with Hua
+Xia’s vocabulary, they were at least succeeding at it — succeeding at splitting civilization
+from state, or succeeding at comfortable, unproblematic parity within it. This paper ar‑
+gues the textual record supports a harder claim: that for close to five thousand years, no
+polity operating inside the Sinographic order — however sophisticated its rhetoric, how‑
+ever genuine its sense of its own standing — ever actually got outside it, by any means
+the order itself made available, and that the cle
+
+================================================================================
+FILE: 04_Institutional_Endurance_and_History\Case_Studies_and_QCA\Bundestag_Firewall_Legitimacy_Paradox.pdf
+PAGES: 7 | SIZE: 82247 bytes
+--------------------------------------------------------------------------------
+WHERE DOES PROTECTION END AND EXCLUSION BEGIN?
+The Bundestag Firewall, the AfD, and the Legitimacy Paradox of Militant Democracy
+A Balanced Analysis of a Contested Question in Democratic Theory
+A NOTE ON THIS PAPER’S AIM
+This paper does not argue that the Bundestag’s treatment of the Alternative für Deutschland (AfD) is  
+illegitimate, and it does not argue that it is justified. Both positions are held by serious constitutional  
+scholars, sitting judges, and elected officials in Germany today, and this paper’s purpose is to state the 
+strongest form of each position, identify precisely where they conflict, and show why the conflict does 
+not resolve cleanly on the available evidence. The paper is organized around a distinction its own  
+analysis develops as a central contribution: that what is colloquially called the “firewall” (Brandmauer) 
+is not one mechanism but at minimum three, operating on different legal foundations, with different  
+safeguards, and — this paper argues — different legitimacy profiles that existing public debate  
+frequently collapses into one.
+I.  The Electoral Fact and the Question It Raises
+In the federal election of February 23, 2025, the AfD received 20.8 percent of the Zweitstimmen (party-
+list vote) and 152 of 630 Bundestag seats, becoming the second-largest parliamentary force. This is not 
+a marginal or symbolic result. It represents a real, current electoral mandate held by roughly one-fifth of 
+participating voters, and the question this pa
+
+================================================================================
+FILE: 04_Institutional_Endurance_and_History\Case_Studies_and_QCA\The_Cheney_Correction_enhanced.pdf
+PAGES: 13 | SIZE: 92940 bytes
+--------------------------------------------------------------------------------
+1
+ THE CHENEY CORRECTION
+ Vice-Presidential Power as a Delegation Contract, and the
+ Institutional Immune Response After the Maximum Case
+ Huỳnh Gia Bảo
+ Independent Researcher · Ho Chi Minh City
+ Abstract
+Dick Cheney died on November 3, 2025, prompting a wave of retrospective assessment
+of a vice presidency that the existing scholarship, led overwhelmingly by Joel Goldstein's
+decades of work on the institution, treats with unusual consensus as the historical ceiling
+of the office's modern power. This paper takes that consensus as its starting point rather
+than its conclusion and asks a question the existing literature's vocabulary —
+recentralization of presidential control, retrenchment of vice-presidential power,
+variation in vice-presidential influence, the president–vice-president partnership —
+approaches without naming directly: why, across three subsequent administrations of
+alternating party control and markedly different governing styles, has no successor vice
+presidency approached the Cheney model, and is the pattern better explained as
+accumulated stylistic variation among individual presidents or as a directional,
+self-reinforcing institutional correction. The paper formalizes vice-presidential power as
+a delegation contract rather than a fixed institutional entitlement: Article II grants the
+office almost no independent constitutional authority beyond Senate presidency and
+presidential succession, meaning the office's substantive influence is, as Goldstein's own
+f
+
+================================================================================
+FILE: 04_Institutional_Endurance_and_History\Case_Studies_and_QCA\The_Papal_Ceiling.pdf
+PAGES: 7 | SIZE: 80983 bytes
+--------------------------------------------------------------------------------
+THE PAPAL CEILING
+Deposition, the Release from Allegiance, and the Structural Limits of Papal Coercive Power, 
+1076–1588
+A Comparative Study of Gregory VII, Innocent III, Pius V, and Gregory XIII
+ABSTRACT
+The historiography of papal intervention in the legitimacy of temporal rulers is extensive but  
+predominantly organized case by case, most fully around Pius V’s 1570 excommunication and  
+deposition of Elizabeth I in the bull Regnans in Excelsis. This literature, exemplified by Gonzalo  
+Velasco Berenguer’s (2021) contextual study and Aislinn Muller’s (2020) monograph on the bull’s  
+reception, has established with considerable precision that Regnans in Excelsis became, in the hands of 
+the Elizabethan regime, a propaganda instrument that hardened anti-Catholic policy, while  
+simultaneously — Muller’s central and more subtle finding — retaining genuine mobilizing force  
+within a segment of the English Catholic community whose depositions and testimony the earlier  
+historiography had largely ignored. This paper does not revise that finding. It relocates it within a  
+longer, comparative, structurally specified sequence that existing scholarship, organized case by case, 
+does not fully construct: four dated attempts, across five centuries, to deploy the identical canonical  
+instrument — excommunication compounded by formal deposition and release of subjects from their 
+oath of allegiance — against a reigning temporal sovereign, and the systematically differing outcomes 
+t
+
+================================================================================
+FILE: 04_Institutional_Endurance_and_History\Precedentism\Precedentism.pdf
+PAGES: 8 | SIZE: 92877 bytes
+--------------------------------------------------------------------------------
+ANALYTICAL ESSAY
+Precedentism
+What the Past Can Prove, With a Judge and Without One
+GIA BAO HUYNH*
+Independent Researcher, Ho Chi Minh City, Vietnam
+A child refused something rarely reaches for a theory of fairness. She reaches for a fact: 
+her brother did this exact thing, at this exact age, and nothing bad happened. That small, almost 
+involuntary move, formalized and given a Latin name, is one of the engines of the entire  
+common-law tradition, and, in a far less disciplined form, one of the engines of how  
+governments and movements decide what a present event permits. This essay follows the move 
+under two different conditions. Inside a courtroom, a cited precedent gets tested, distinguished, 
+or overruled by an institution built to notice when an extrapolation from it has gone wrong.  
+Outside a courtroom — in a diplomat’s argument that an intervention is permissible because a 
+past one went unpunished, or a movement’s claim that a cause survives its murdered leader — 
+the same move operates with no institution empowered to settle whether it is any good. Two  
+events from early 2026, the killing of Iran’s Supreme Leader and the capture of Venezuela’s  
+president, are already being argued over as precedent, by name, by international lawyers and an 
+actual American court. Tested against Popper’s critique of historicism, the two forms come out 
+differently for a specific reason, and the essay closes by turning the same test on this corpus’s 
+own practice, where the same d
+
+================================================================================
+FILE: 03_War_Correspondent_Philosophy\Volumes_I_to_VI\War Correspondent Philosophy - Complete Edition.pdf
+PAGES: 35 | SIZE: 253271 bytes
+--------------------------------------------------------------------------------
+WAR CORRESPONDENT PHILOSOPHY
+Method, Evidence, and the Ethics of Research Under a Closing Window
+A Six-Volume Manuscript Series
+Gia Bao Huynh
+Independent Researcher, Ho Chi Minh City, Vietnam
+Manuscript
+2026
+Ho Chi Minh City
+Complete Edition2 War Correspondent Philosophy
+Huynh, Gia Bao (2026) War Correspondent Philosophy: Method, Evidence, and the Ethics of Research Under a 
+Closing Window. Complete Edition, Volumes I–VI, with Preface and Conclusion.
+© Gia Bao Huynh (2026). Draft manuscript prepared for open scholarly circulation and comment. Not yet peer-
+reviewed or formally archived; please cite as a working draft.
+
+================================================================================
+FILE: 03_War_Correspondent_Philosophy\Volumes_I_to_VI\Falsification_Based_Pedagogy.pdf
+PAGES: 14 | SIZE: 272364 bytes
+--------------------------------------------------------------------------------
+FALSIFICATION-BASED
+ 
+PEDAGOGY
+ 
+A
+ 
+Formal
+ 
+Framework
+ 
+for
+ 
+Teaching
+ 
+Through
+ 
+Error
+ 
+Elimination
+ 
+Toward
+ 
+a
+ 
+Popperian
+ 
+Methodology
+ 
+of
+ 
+Instruction,
+ 
+Assessment,
+ 
+and
+ 
+Classroom
+ 
+Design
+ 
+Gia
+ 
+Bao
+ 
+Huynh
+ 
+July
+ 
+2026
+ 
+Abstract
+ 
+Karl
+ 
+Popper's
+ 
+philosophy
+ 
+of
+ 
+science
+ 
+has
+ 
+been
+ 
+applied
+ 
+to
+ 
+education
+ 
+extensively
+ 
+at
+ 
+two
+ 
+levels:
+ 
+as
+ 
+a
+ 
+civic
+ 
+philosophy
+ 
+of
+ 
+the
+ 
+open
+ 
+society
+ 
+cultivating
+ 
+dispositional
+ 
+critical
+ 
+thinking
+ 
+(Lam
+ 
+2007;
+ 
+Lam
+ 
+2013;
+ 
+Zecha
+ 
+1999),
+ 
+and
+ 
+as
+ 
+a
+ 
+narrow
+ 
+instructional
+ 
+technique
+ 
+within
+ 
+science
+ 
+curricula,
+ 
+where
+ 
+students
+ 
+generate
+ 
+and
+ 
+test
+ 
+hypotheses
+ 
+against
+ 
+discrepant
+ 
+evidence
+ 
+(Posner
+ 
+et
+ 
+al.
+ 
+1982;
+ 
+Kang,
+ 
+Scharmann,
+ 
+and
+ 
+Noh
+ 
+2004).
+ 
+Neither
+ 
+level
+ 
+formalizes
+ 
+falsification
+ 
+as
+ 
+the
+ 
+organizing
+ 
+principle
+ 
+of
+ 
+an
+ 
+entire
+ 
+pedagogical
+ 
+methodology
+ 
+—
+ 
+a
+ 
+system
+ 
+in
+ 
+which
+ 
+every
+ 
+classroom
+ 
+activity,
+ 
+assessment
+ 
+instrument,
+ 
+and
+ 
+teacher
+ 
+intervention
+ 
+is
+ 
+designed
+ 
+around
+ 
+students'
+ 
+capacity
+ 
+to
+ 
+generate
+ 
+the
+ 
+conditions
+ 
+under
+ 
+which
+ 
+their
+ 
+own
+ 
+beliefs
+ 
+would
+ 
+be
+ 
+shown
+ 
+false,
+ 
+rather
+ 
+than
+ 
+around
+ 
+their
+ 
+capacity
+ 
+to
+ 
+justify
+ 
+beliefs
+ 
+already
+ 
+held.
+ 
+This
+ 
+paper
+ 
+develops
+ 
+that
+ 
+formalization.
+ 
+It
+ 
+states
+ 
+five
+ 
+axioms
+ 
+derived
+ 
+from
+ 
+Popperian
+ 
+epistemology,
+ 
+translates
+ 
+them
+ 
+into
+ 
+a
+ 
+five-principle
+ 
+pedagogical
+ 
+framework,
+ 
+specifies
+ 
+classroom
+ 
+procedures
+
+================================================================================
+FILE: 03_War_Correspondent_Philosophy\Volumes_I_to_VI\The_Third-Order_Audit.pdf
+PAGES: 6 | SIZE: 61254 bytes
+--------------------------------------------------------------------------------
+THE	THIRD-ORDER	AUDIT
+A	 Synthesis	 Module	 for	 Organized	 Skepticism	 Across	 Eight	 Traditions,	 and	 Why
+Statelessness,	Not	a	New	Epistemology,	Is	Its	Only	Novel	Attribute
+Companion	paper	to	The	Right	Side	of	the	Guillotine,	The	Third	Break,	and	A5	—	The
+Primal	Pain	of	Loss
+Gia	Bao	Huynh	August	2026
+Abstract
+This	corpus’s	practice	of	doubting	its	own	claims	has,	across	dozens	of	scattered
+papers,	 drawn	 on	 at	 least	 eight	 distinguishable	 traditions	 of	 self-doubt	 in	 the
+philosophy	and	sociology	of	science:	Popperian	falsificationism,	Mertonian	organized
+skepticism,	 Kuhnian	 paradigm-blindness,	 Lakatosian	 research-programme
+evaluation,	Feyerabendian	anti-method,	Peircean	fallibilism,	Allchin’s	philosophy	of
+scientific	error,	and	contemporary	epistemic	humility.	None	of	these	is	this	paper’s
+discovery,	and	this	paper	states	that	plainly	rather	than	leaving	it	to	be	inferred
+generously.	What	this	paper	does,	in	the	manner	A5	synthesized	Frankfurt’s	caring-
+about	framework,	Hamilton’s	rule,	and	Bowlby’s	attachment	theory	into	one	formal
+construct	rather	than	claiming	to	have	invented	any	of	the	three,	is	synthesize	these
+eight	 traditions	 into	 a	 single,	 three-order	 recursive	 architecture	 —	 object-level
+falsification	of	a	claim,	mechanism-level	audit	of	whether	the	falsification	actually
+closes	 escape	 routes,	 and	 programme-level	 audit	 of	 whether	 the	 research
+programme	as	a	whole	is	absorbing	objections	or	being	genuinely	constrained	by
+them	 —	 and
+
+================================================================================
+FILE: 06_Phil_and_Submissions_Archive\Phil4.0\THE_NOVELTY_TAX.pdf
+PAGES: 15 | SIZE: 120851 bytes
+--------------------------------------------------------------------------------
+THE NOVELTY TAX
+Conceptual Engineering, Pseudo-Novelty, and Why Formalizing the Mortality Symmetry Axiom 
+Is a Cost Worth Paying
+Gia Bao Huynh
+Companion paper to the Longevity Asymmetry Corpus. Extends War Correspondent Philosophy’s falsifiability 
+apparatus to the corpus’s own foundational terminology.
+August 2026
+ABSTRACT
+This paper addresses an objection any reader encountering “Mortality Symmetry Axiom” (MSA) for  
+the first time is entitled to raise: is this a genuine theoretical object, or a new label stretched over  
+concepts  —  mortality  inequality,  brute  luck,  demographic  change  —  that  already  existed?  The 
+objection has a documented basis in three literatures that do not cite one another. Eklund (2024)  
+argues  that  conceptual  engineering  as  actually  practiced  rarely  produces  genuine  conceptual  
+innovation, and specifies a criterion for when it does: a new concept expands expressive power only  
+when it is not reducible, without loss, to concepts a thinker already possessed — illustrated by  
+Beck’s observation, which Eklund adopts, that acquiring the word “vixen” adds no expressive power  
+to a thinker who already has “female fox,” since the two share identical content. Newig et al. (2026),  
+auditing citation-based disruptiveness metrics in social-science publishing, name the adjacent failure  
+mode “pseudo-novelty”: research that relabels existing phenomena with new terminology without  
+corresponding gains in originality, utility, or explan
+
+================================================================================
+FILE: 06_Phil_and_Submissions_Archive\Phil4.0\PROBLEM-GENERATOR_OR_PROBLEM-SOLVER.pdf
+PAGES: 10 | SIZE: 81893 bytes
+--------------------------------------------------------------------------------
+1 PROBLEM-GENERA TOR OR PROBLEM-SOLVER
+Problem-Generator or Problem-Solver
+A Generativity Dimension for Serendipity Taxonomy, the Prepared-Mind Condition Applied to Conceptual
+Tools, and the Epistemic Limit That Makes This Paper’ s Own Central Case Unverifiable By Its Author
+Gia Bao Huynh — August 2026
+Abstract
+The serendipity literature, from Merton’s 1948 serendipity pattern through V an Andel’s (1994) typol-
+ogy of unsought findings to Y aqub’s (2018) four-type taxonomy, has organized the phenomenon primarily
+along two dimensions: whether the finding was sought or unsought, and whether the outcome fell within
+the researcher’s original domain or a different one. This paper proposes a third dimension that cross-cuts
+both existing ones: whether the unsought finding is terminal — it provides a solution to some problem, re-
+gardless of which problem — or generative — it supplies a problem-generating mechanism that opens a
+research space rather than closing one. The distinction matters for taxonomy because generative serendipity
+is not merely a case of terminal serendipity producing an unusually large downstream payoff; it is struc-
+turally different in kind, requiring for its recognition not only Pasteur’s “prepared mind” but what this paper
+terms a prepared aperture: the capacity to recognize that what has been found is not an answer but an instru-
+ment that produces questions. The paper applies this distinction to the founding discovery of the Longevity
+Asymmetry Corpus — the
+
+================================================================================
+FILE: 06_Phil_and_Submissions_Archive\Phil4.0\The_Borrowed_Rubric.pdf
+PAGES: 12 | SIZE: 116267 bytes
+--------------------------------------------------------------------------------
+THE BORROWED RUBRIC
+Why a Language Model Asked to Review a Preprint Defaults to
+Journal-Caliber Gatekeeping Criteria an Archive Built Not to Require
+Them Never Asked For, and Why That Default Cannot Be Falsiﬁed by
+the Work It Is Applied To
+Gia Bao Huynh
+July 2026
+Companion paper to In the Name of Merit, The Act-Level Criterion,
+and The Artifact Problem.
+ABSTRACT
+PhilArchive's own founders state its policy without qualiﬁcation:
+submitted work is "not peer reviewed," and is vetted only for
+"minimal standards of quality and relevance." arXiv's endorsement
+system, this corpus's own In the Name of Merit already documents,
+exists to verify that a contributor belongs to the relevant scientiﬁc
+community, not to certify the technical correctness of what they
+submit. Both archives were built, explicitly and on the historical
+record, as an escape from exactly the gatekeeping apparatus a
+language model asked to evaluate a submission to either archive
+tends to reach for anyway: does this work use established
+terminology rather than terms the author coined; does this work
+avoid citing its own author's other work; has this work been peer
+reviewed. This paper argues that applying these three criteria to a
+preprint-archive submission is not a stricter standard than the
+venue requires. It is the wrong standard, borrowed from a different
+genre of publication and applied without checking whether its
+assumptions transfer. The paper grounds the argument in three
+independent literatures. First, Kuh
+
+================================================================================
+FILE: Queue_Behind_the_Frontier.pdf
+PAGES: 7 | SIZE: 506811 bytes
+--------------------------------------------------------------------------------
+The
+ 
+Queue
+ 
+Behind
+ 
+the
+ 
+Frontier
+ 
+A
+ 
+Quantitative
+ 
+Module
+ 
+on
+ 
+Longevity-Biotechnology
+ 
+Access,
+ 
+Extending
+ 
+the
+ 
+Political
+ 
+Economy
+ 
+of
+ 
+Volume
+ 
+IV
+ 
+Gia
+ 
+Bao
+ 
+Huynh
+ 
+(Jun)
+  
+·
+  
+Independent
+ 
+Researcher,
+ 
+Ho
+ 
+Chi
+ 
+Minh
+ 
+City
+ 
+Companion
+ 
+module
+ 
+to
+ 
+Longevity
+ 
+Asymmetry
+ 
+Corpus,
+ 
+Volume
+ 
+IV
+ 
+(“Economics:
+ 
+Capital,
+ 
+Discovery,
+ 
+and
+ 
+a
+ 
+Gap
+ 
+That
+ 
+May
+ 
+Not
+ 
+Close
+ 
+as
+ 
+Fast
+ 
+as
+ 
+It
+ 
+Opens”)
+ 
+and
+ 
+to
+ 
+The
+ 
+Floor
+ 
+That
+ 
+Does
+ 
+Not
+ 
+Rise,
+ 
+whose
+ 
+queueing
+ 
+formalism
+ 
+this
+ 
+paper
+ 
+reuses
+ 
+without
+ 
+modification.
+ 
+Every
+ 
+figure
+ 
+traces
+ 
+to
+ 
+a
+ 
+named
+ 
+source
+ 
+in
+ 
+Part
+ 
+IX;
+ 
+nothing
+ 
+here
+ 
+rests
+ 
+on
+ 
+a
+ 
+prior
+ 
+draft’s
+ 
+summary
+ 
+of
+ 
+a
+ 
+source.
+ 
+Abstract
+ 
+Volume
+ 
+IV
+ 
+of
+ 
+this
+ 
+corpus
+ 
+argues,
+ 
+in
+ 
+prose,
+ 
+that
+ 
+longevity-biotechnology
+ 
+access
+ 
+resembles
+ 
+a
+ 
+queue
+ 
+standing
+ 
+behind
+ 
+a
+ 
+frontier
+ 
+that
+ 
+keeps
+ 
+moving
+ 
+—
+ 
+a
+ 
+queue
+ 
+with
+ 
+no
+ 
+guarantee
+ 
+of
+ 
+ever
+ 
+reaching
+ 
+the
+ 
+front,
+ 
+because
+ 
+the
+ 
+front
+ 
+does
+ 
+not
+ 
+wait.
+ 
+This
+ 
+paper
+ 
+gives
+ 
+that
+ 
+image
+ 
+a
+ 
+formal
+ 
+test.
+ 
+Reusing
+ 
+the
+ 
+queueing
+ 
+apparatus
+ 
+built
+ 
+for
+ 
+The
+ 
+Floor
+ 
+That
+ 
+Does
+ 
+Not
+ 
+Rise,
+ 
+it
+ 
+treats
+ 
+the
+ 
+gap
+ 
+between
+ 
+how
+ 
+fast
+ 
+candidate
+ 
+therapies
+ 
+could
+ 
+plausibly
+ 
+be
+ 
+discovered
+ 
+and
+ 
+how
+ 
+fast
+ 
+the
+ 
+regulatory-and-trial
+ 
+pipeline
+ 
+can
+ 
+actually
+ 
+deliver
+ 
+them
+ 
+as
+ 
+a
+ 
+traffic-intensity
+ 
+problem,
+ 
+and
+ 
+asks
+ 
+what
+ 
+real
+ 
+data
+ 
+say
+ 
+about
+ 
+each
+ 
+s
+
+================================================================================
+FILE: Rethinking the World's First Court, Again.pdf
+PAGES: 8 | SIZE: 139275 bytes
+--------------------------------------------------------------------------------
+Huynh
+ 
+1
+ 
+Gia
+ 
+Bao
+ 
+Huynh
+ 
+POS
+ 
+110
+ 
++
+ 
+INR
+ 
+194
+ 
+Reflection
+ 
+Rethinking
+ 
+the
+ 
+World's
+ 
+First
+ 
+Court,
+ 
+Again:
+ 
+Global
+ 
+Governance
+ 
+as
+ 
+Private
+ 
+Enforcement,
+ 
+1907–2026
+ 
+I.
+ 
+A
+ 
+Threshold
+ 
+Already
+ 
+Defined
+ 
+Early
+ 
+in
+ 
+this
+ 
+course,
+ 
+in
+ 
+my
+ 
+Field
+ 
+Notes
+ 
+on
+ 
+the
+ 
+Declaration
+ 
+of
+ 
+Independence,
+ 
+I
+ 
+wrote
+ 
+that
+ 
+the
+ 
+Declaration
+ 
+does
+ 
+not
+ 
+treat
+ 
+one
+ 
+bad
+ 
+decision
+ 
+as
+ 
+sufficient
+ 
+grounds
+ 
+for
+ 
+resistance.
+ 
+Resistance
+ 
+becomes
+ 
+justified
+ 
+only
+ 
+when
+ 
+there
+ 
+is,
+ 
+in
+ 
+the
+ 
+document’s
+ 
+own
+ 
+words,
+ 
+a
+ 
+“long
+ 
+train
+ 
+of
+ 
+abuses
+ 
+and
+ 
+usurpations,
+ 
+pursuing
+ 
+invariably
+ 
+the
+ 
+same
+ 
+Object.”
+ 
+It
+ 
+requires
+ 
+a
+ 
+pattern
+ 
+rather
+ 
+than
+ 
+an
+ 
+isolated
+ 
+incident,
+ 
+and
+ 
+that
+ 
+pattern
+ 
+has
+ 
+to
+ 
+be
+ 
+demonstrated,
+ 
+not
+ 
+assumed.
+ 
+I
+ 
+did
+ 
+not
+ 
+expect
+ 
+to
+ 
+use
+ 
+that
+ 
+standard
+ 
+again
+ 
+this
+ 
+semester
+ 
+for
+ 
+anything
+ 
+other
+ 
+than
+ 
+King
+ 
+George
+ 
+III.
+ 
+It
+ 
+turns
+ 
+out
+ 
+to
+ 
+be
+ 
+exactly
+ 
+the
+ 
+standard
+ 
+this
+ 
+paper
+ 
+needs.
+ 
+My
+ 
+central
+ 
+claim
+ 
+is
+ 
+not
+ 
+simply
+ 
+that
+ 
+the
+ 
+United
+ 
+States
+ 
+did
+ 
+something
+ 
+alarming
+ 
+when
+ 
+it
+ 
+sanctioned
+ 
+the
+ 
+sitting
+ 
+President
+ 
+of
+ 
+the
+ 
+International
+ 
+Criminal
+ 
+Court
+ 
+in
+ 
+August
+ 
+2026.
+ 
+It
+ 
+is
+ 
+that
+ 
+the
+ 
+same
+ 
+specific
+ 
+thing
+ 
+has
+ 
+now
+ 
+happened
+ 
+three
+ 
+times,
+ 
+a
+ 
+century
+ 
+apart.
+ 
+The
+ 
+third
+ 
+instance
+ 
+is
+ 
+not
+ 
+a
+ 
+departure
+ 
+from
+ 
+how
+ 
+the
+ 
+system
+ 
+has
+ 
+worked.
+ 
+It
+ 
+is
+ 
+a
+ 
+continuation.
+ 
+II.
+
+================================================================================
+FILE: The Widening Gap.pdf
+PAGES: 29 | SIZE: 382517 bytes
+--------------------------------------------------------------------------------
+The
+ 
+Widening
+ 
+Gap
+ 
+Reset
+ 
+Events,
+ 
+Queueing
+ 
+Instability,
+ 
+and
+ 
+the
+ 
+Hard–Soft
+ 
+Floor
+ 
+Distinction
+ 
+A
+ 
+General
+ 
+Theory,
+ 
+Tested
+ 
+Against
+ 
+Five
+ 
+Empirical
+ 
+Domains
+ 
+ 
+Gia
+ 
+Bao
+ 
+Huynh
+ 
+Independent
+ 
+Researcher,
+ 
+Ho
+ 
+Chi
+ 
+Minh
+ 
+City,
+ 
+Vietnam
+ 
+huynhbao@asu.edu
+ 
+·
+ 
+ORCID:
+ 
+0009-0008-2372-5852
+ 
+Enhanced
+ 
+Final
+ 
+Draft
+ 
+—
+ 
+September
+ 
+19,
+ 
+2026
+ 
+©
+ 
+Gia
+ 
+Bao
+ 
+Huynh
+ 
+(2026).
+ 
+Collaborator:
+ 
+Perflexity,
+ 
+Claude
+ 
+Sonnet
+ 
+5
+ 
+&
+ 
+Antigravity
+ 
+Draft
+ 
+manuscript
+ 
+prepared
+ 
+for
+ 
+open
+ 
+scholarly
+ 
+circulation
+ 
+and
+ 
+comment.
+ 
+ Abstract 
+Some
+ 
+technologies
+ 
+generate
+ 
+their
+ 
+own
+ 
+inequality
+ 
+faster
+ 
+than
+ 
+they
+ 
+can
+ 
+resolve
+ 
+it,
+ 
+because
+ 
+the
+ 
+very
+ 
+engine
+ 
+that
+ 
+creates
+ 
+a
+ 
+new
+ 
+advantage
+ 
+is
+ 
+also,
+ 
+in
+ 
+principle,
+ 
+the
+ 
+only
+ 
+mechanism
+ 
+that
+ 
+could
+ 
+ever
+ 
+spread
+ 
+it
+ 
+evenly
+ 
+—
+ 
+and
+ 
+the
+ 
+engine
+ 
+now
+ 
+compounds
+ 
+faster
+ 
+than
+ 
+the
+ 
+spreading
+ 
+mechanism
+ 
+can
+ 
+move.
+ 
+This
+ 
+paper
+ 
+states
+ 
+the
+ 
+resulting
+ 
+structure
+ 
+as
+ 
+a
+ 
+formal
+ 
+queueing-theoretic
+ 
+claim:
+ 
+when
+ 
+reset
+ 
+events
+ 
+(discrete
+ 
+frontier
+ 
+advances)
+ 
+arrive
+ 
+at
+ 
+an
+ 
+accelerating
+ 
+rate
+ 
+λ(
+t)
+ 
+that
+ 
+eventually
+ 
+exceeds
+ 
+the
+ 
+bounded
+ 
+service
+ 
+rate
+ 
+μ
+ 
+at
+ 
+which
+ 
+prior
+ 
+advances
+ 
+are
+ 
+absorbed
+ 
+by
+ 
+the
+ 
+general-access
+ 
+floor,
+ 
+the
+ 
+gap
+ 
+between
+ 
+frontier
+ 
+and
+ 
+floor
+ 
+grows
+ 
+without
+ 
+bound
+ 
+—
+ 
+the
+ 
+queue
+ 
+is
+ 
+structurally
+ 
+unstable.
+ 
+This
+ 
+formalization
+ 
+is
+ 
+tested
+ 
+against
+ 
+r
+
+================================================================================
+FILE: 06_Phil_and_Submissions_Archive\SUBMITTED\THE_MOLECULAR_ZERO_DAY.docx.pdf
+PAGES: 12 | SIZE: 200438 bytes
+--------------------------------------------------------------------------------
+THE
+ 
+MOLECULAR
+ 
+ZERO-DAY
+ 
+ 
+Nikolas
+ 
+Rose,
+ 
+Biological
+ 
+Citizenship
+ 
+as
+ 
+Concentration,
+ 
+and
+ 
+the
+ 
+Vicarious
+ 
+Ethopolitics
+ 
+A5
+ 
+Adds
+ 
+ 
+ 
+Gia
+ 
+Bao
+ 
+Huynh
+ 
+July
+ 
+2026
+ 
+ 
+ 
+ 
+ABSTRACT
+ 
+WHAT
+ 
+THIS
+ 
+PAPER
+ 
+ARGUES.
+ 
+Foucault,
+ 
+Agamben,
+ 
+and
+ 
+Esposito,
+ 
+engaged
+ 
+in
+ 
+the
+ 
+three
+ 
+papers
+ 
+preceding
+ 
+this
+ 
+one,
+ 
+each
+ 
+supply
+ 
+this
+ 
+corpus
+ 
+with
+ 
+a
+ 
+structural
+ 
+vocabulary
+ 
+developed
+ 
+at
+ 
+some
+ 
+distance
+ 
+from
+ 
+its
+ 
+actual
+ 
+empirical
+ 
+domain:
+ 
+population
+ 
+statistics,
+ 
+archaic
+ 
+Roman
+ 
+law,
+ 
+the
+ 
+etymology
+ 
+of
+ 
+immunity.
+ 
+Nikolas
+ 
+Rose's
+ 
+The
+ 
+Politics
+ 
+of
+ 
+Life
+ 
+Itself
+ 
+(2007)
+ 
+is
+ 
+different
+ 
+in
+ 
+kind.
+ 
+Rose's
+ 
+empirical
+ 
+domain
+ 
+—
+ 
+genomic
+ 
+medicine,
+ 
+biotechnology,
+ 
+molecular-level
+ 
+biological
+ 
+intervention
+ 
+—
+ 
+is
+ 
+not
+ 
+an
+ 
+analogy
+ 
+for
+ 
+this
+ 
+corpus's
+ 
+Biological
+ 
+Zero-Day
+ 
+Mechanism.
+ 
+It
+ 
+is
+ 
+the
+ 
+same
+ 
+domain,
+ 
+described
+ 
+sociologically
+ 
+rather
+ 
+than
+ 
+formalized
+ 
+mathematically.
+ 
+This
+ 
+paper
+ 
+argues
+ 
+BZM
+ 
+is,
+ 
+without
+ 
+having
+ 
+been
+ 
+built
+ 
+as
+ 
+one,
+ 
+a
+ 
+formalization
+ 
+of
+ 
+what
+ 
+Rose
+ 
+calls
+ 
+molecular
+ 
+biopolitics,
+ 
+and
+ 
+that
+ 
+this
+ 
+connection
+ 
+supplies
+ 
+something
+ 
+the
+ 
+prior
+ 
+three
+ 
+did
+ 
+not:
+ 
+a
+ 
+structural,
+ 
+non-contingent
+ 
+reason
+ 
+why
+ 
+the
+ 
+Mortality
+ 
+Symmetry
+ 
+Axiom
+ 
+was
+ 
+always
+ 
+going
+ 
+to
+ 
+fail.Rose
+ 
+distinguishes
+ 
+molecular
+ 
+biopolitics
+ 
+from
+ 
+the
+ 
+molar,
+ 
+population-statistical
+ 
+biopolitics
+ 
+Foucault
+ 
+described:
+ 
+cont
+
+================================================================================
+FILE: 06_Phil_and_Submissions_Archive\SUBMITTED\F2026 the closing window.pdf
+PAGES: 28 | SIZE: 423207 bytes
+--------------------------------------------------------------------------------
+THE
+ 
+CLOSING
+ 
+WINDOW
+ 
+Structural
+ 
+Conditions
+ 
+for
+ 
+Political
+ 
+Escalation
+ 
+Under
+ 
+Biological
+ 
+Stratification
+ 
+ 
+ 
+Gia
+ 
+Bao
+ 
+Huynh
+ 
+June
+ 
+2026
+ 
+ 
+ 
+ 
+ABSTRACT
+ 
+What
+ 
+this
+ 
+paper
+ 
+establishes:
+ 
+when
+ 
+AI-accelerated
+ 
+longevity
+ 
+technology
+ 
+becomes
+ 
+accessible
+ 
+to
+ 
+the
+ 
+wealthy
+ 
+before
+ 
+reaching
+ 
+the
+ 
+general
+ 
+population,
+ 
+the
+ 
+same
+ 
+human
+ 
+mechanism
+ 
+that
+ 
+creates
+ 
+demand
+ 
+for
+ 
+that
+ 
+technology
+ 
+—
+ 
+A5
+ 
+(the
+ 
+neurological
+ 
+compulsion
+ 
+to
+ 
+preserve
+ 
+the
+ 
+lives
+ 
+of
+ 
+specifically
+ 
+loved
+ 
+persons,
+ 
+which
+ 
+makes
+ 
+longevity
+ 
+market
+ 
+demand
+ 
+price-inelastic
+ 
+at
+ 
+the
+ 
+margin)
+ 
+—
+ 
+becomes
+ 
+the
+ 
+mechanism
+ 
+that
+ 
+converts
+ 
+preventable
+ 
+death
+ 
+into
+ 
+political
+ 
+catastrophe.
+ 
+A
+ 
+wealthy
+ 
+family’s
+ 
+A5
+ 
+drives
+ 
+it
+ 
+to
+ 
+purchase
+ 
+life-extending
+ 
+treatment;
+ 
+the
+ 
+market
+ 
+this
+ 
+creates
+ 
+prices
+ 
+that
+ 
+treatment
+ 
+beyond
+ 
+the
+ 
+reach
+ 
+of
+ 
+other
+ 
+families;
+ 
+when
+ 
+those
+ 
+families’
+ 
+loved
+ 
+ones
+ 
+die
+ 
+of
+ 
+now-preventable
+ 
+conditions,
+ 
+their
+ 
+A5
+ 
+activates
+ 
+the
+ 
+Grief-Attribution-Legitimation-Concentration
+ 
+(G
+→
+A
+→
+L
+→
+C)
+ 
+political
+ 
+sequence
+ 
+—
+ 
+a
+ 
+four-stage
+ 
+escalation
+ 
+from
+ 
+private
+ 
+loss
+ 
+to
+ 
+organized
+ 
+political
+ 
+force,
+ 
+documented
+ 
+across
+ 
+nine
+ 
+historical
+ 
+cases.
+ 
+A5
+ 
+operates
+ 
+on
+ 
+both
+ 
+sides
+ 
+of
+ 
+the
+ 
+asymmetry
+ 
+simultaneously:
+ 
+it
+ 
+creates
+ 
+the
+ 
+deaths
+ 
+it
+ 
+then
+ 
+cannot
+ 
+accept.
+ 
+The
+ 
+loop
+ 
+is
+ 
+recursive,
+ 
+self-amplifying,
+ 
+and
+ 
+has
+ 
+no
+
+================================================================================
+FILE: 06_Phil_and_Submissions_Archive\SUBMITTED\G2026 Neither_Dragon_Nor_Factor_X_v2.docx.pdf
+PAGES: 12 | SIZE: 202789 bytes
+--------------------------------------------------------------------------------
+NEITHER
+ 
+DRAGON
+ 
+NOR
+ 
+FACTOR
+ 
+X
+ 
+The
+ 
+Primal
+ 
+Pain
+ 
+of
+ 
+Loss
+ 
+as
+ 
+a
+ 
+Third
+ 
+Position
+ 
+Between
+ 
+Transhumanist
+ 
+Urgency
+ 
+and
+ 
+Bioconservative
+ 
+Restriction
+ 
+Gia
+ 
+Bao
+ 
+Huynh
+ 
+June
+ 
+2026
+ 
+ABSTRACT
+ 
+This
+ 
+paper
+ 
+isolates
+ 
+the
+ 
+Primal
+ 
+Pain
+ 
+of
+ 
+Loss
+ 
+(A5),
+ 
+developed
+ 
+in
+ 
+Chapter
+ 
+III
+ 
+of
+ 
+Till
+ 
+Death
+ 
+Tear
+ 
+Us
+ 
+Apart
+ 
+(Huynh
+ 
+2026a),
+ 
+as
+ 
+a
+ 
+structural
+ 
+mechanism
+ 
+that
+ 
+is
+ 
+independent
+ 
+of
+ 
+the
+ 
+normative
+ 
+debate
+ 
+that
+ 
+currently
+ 
+organizes
+ 
+the
+ 
+philosophical
+ 
+literature
+ 
+on
+ 
+radical
+ 
+life
+ 
+extension.
+ 
+That
+ 
+literature
+ 
+divides
+ 
+into
+ 
+two
+ 
+positions.
+ 
+Transhumanism,
+ 
+represented
+ 
+by
+ 
+Nick
+ 
+Bostrom’s
+ 
+defense
+ 
+of
+ 
+posthuman
+ 
+dignity
+ 
+and
+ 
+his
+ 
+Fable
+ 
+of
+ 
+the
+ 
+Dragon-Tyrant,
+ 
+treats
+ 
+death
+ 
+as
+ 
+an
+ 
+engineering
+ 
+problem
+ 
+to
+ 
+be
+ 
+solved
+ 
+and
+ 
+treats
+ 
+resistance
+ 
+to
+ 
+life-extension
+ 
+technology
+ 
+as
+ 
+a
+ 
+status-quo
+ 
+bias
+ 
+termed
+ 
+deathism.
+ 
+Bioconservatism,
+ 
+represented
+ 
+by
+ 
+Francis
+ 
+Fukuyama’s
+ 
+Our
+ 
+Posthuman
+ 
+Future
+ 
+and
+ 
+his
+ 
+essay
+ 
+naming
+ 
+transhumanism
+ 
+the
+ 
+world’s
+ 
+most
+ 
+dangerous
+ 
+idea,
+ 
+treats
+ 
+enhancement
+ 
+technology
+ 
+as
+ 
+a
+ 
+threat
+ 
+to
+ 
+a
+ 
+shared
+ 
+human
+ 
+essence
+ 
+—
+ 
+Factor
+ 
+X
+ 
+—
+ 
+that
+ 
+grounds
+ 
+liberal
+ 
+democratic
+ 
+equality,
+ 
+and
+ 
+proposes
+ 
+regulatory
+ 
+restriction
+ 
+as
+ 
+the
+ 
+remedy.
+ 
+This
+ 
+paper
+ 
+argues
+ 
+that
+ 
+both
+ 
+positions
+ 
+share
+ 
+one
+ 
+unexamined
+ 
+assumption:
+ 
+that
+ 
+the
+ 
+political
+ 
+consequences
+ 
+of
+ 
+life-ex
+
+================================================================================
+FILE: 06_Phil_and_Submissions_Archive\SUBMITTED\The_Sandbox_Geometry_SBEA5.docx.pdf
+PAGES: 12 | SIZE: 341999 bytes
+--------------------------------------------------------------------------------
+THE
+ 
+SANDBOX
+ 
+GEOMETRY
+ 
+S,
+ 
+B,
+ 
+E,
+ 
+A5:
+ 
+A
+ 
+Four-Variable
+ 
+Reduction
+ 
+of
+ 
+the
+ 
+Longevity
+ 
+Asymmetry
+ 
+Corpus
+ 
+in
+ 
+Three-Dimensional
+ 
+State
+ 
+Space,
+ 
+and
+ 
+the
+ 
+Geometric
+ 
+Measurement
+ 
+of
+ 
+Sandbox
+ 
+Collapse
+ 
+Gia
+ 
+Bao
+ 
+Huynh
+ 
+June
+ 
+2026
+ 
+ABSTRACT
+ 
+The
+ 
+Longevity
+ 
+Asymmetry
+ 
+Corpus
+ 
+(Huynh
+ 
+2026a–t)
+ 
+contains
+ 
+thirteen
+ 
+formal
+ 
+models,
+ 
+five
+ 
+structural
+ 
+paradoxes,
+ 
+nine
+ 
+historical
+ 
+cases,
+ 
+and
+ 
+dozens
+ 
+of
+ 
+empirical
+ 
+parameters.
+ 
+This
+ 
+paper
+ 
+demonstrates
+ 
+that
+ 
+the
+ 
+entire
+ 
+corpus
+ 
+reduces,
+ 
+without
+ 
+loss
+ 
+of
+ 
+structural
+ 
+content,
+ 
+to
+ 
+four
+ 
+variables
+ 
+and
+ 
+a
+ 
+three-dimensional
+ 
+geometric
+ 
+representation.
+ 
+S
+ 
+(Sandbox)
+ 
+is
+ 
+the
+ 
+scalar
+ 
+integrity
+ 
+of
+ 
+the
+ 
+current
+ 
+civilizational
+ 
+equilibrium
+ 
+—
+ 
+the
+ 
+bounded
+ 
+region
+ 
+within
+ 
+which
+ 
+existing
+ 
+governance,
+ 
+institutional,
+ 
+and
+ 
+social
+ 
+arrangements
+ 
+remain
+ 
+operative.
+ 
+B
+ 
+(Buffer)
+ 
+is
+ 
+the
+ 
+institutional
+ 
+and
+ 
+biological
+ 
+dampening
+ 
+capacity
+ 
+that
+ 
+prevents
+ 
+the
+ 
+standing
+ 
+charge
+ 
+A5
+ 
+from
+ 
+converting
+ 
+into
+ 
+organized
+ 
+political
+ 
+force.
+ 
+E
+ 
+(Entropy)
+ 
+is
+ 
+the
+ 
+aggregate
+ 
+systemic
+ 
+disorder
+ 
+produced
+ 
+by
+ 
+ARSI
+ 
+acceleration,
+ 
+BZM
+ 
+reclassification
+ 
+events,
+ 
+and
+ 
+the
+ 
+progressive
+ 
+erosion
+ 
+of
+ 
+the
+ 
+Mortality
+ 
+Symmetry
+ 
+Axiom.
+ 
+A5
+ 
+(
+愛
+別
+離
+苦
+,
+ 
+the
+ 
+Primal
+ 
+Pain
+ 
+of
+ 
+Loss)
+ 
+is
+ 
+not
+ 
+a
+ 
+spatial
+ 
+variable
+ 
+but
+ 
+the
+ 
+scalar
+ 
+force
+ 
+field
+ 
+that
+ 
+determines
+ 
+the
+ 
+velocity
+ 
+of
+
+================================================================================
+FILE: 06_Phil_and_Submissions_Archive\SUBMITTED\THE_STRUCTURAL_RESIDUE_updated.docx.pdf
+PAGES: 15 | SIZE: 315521 bytes
+--------------------------------------------------------------------------------
+THE
+ 
+STRUCTURAL
+ 
+RESIDUE
+ 
+Entropy-Resistant
+ 
+Institutions,
+ 
+the
+ 
+Jiankang
+ 
+Model,and
+ 
+Design
+ 
+Criteria
+ 
+for
+ 
+Longevity
+ 
+Biopolitics
+ 
+Governance
+ 
+Gia
+ 
+Bao
+ 
+Huynh
+ 
+June
+ 
+2026
+ 
+ 
+ABSTRACT
+ 
+Every
+ 
+prior
+ 
+paper
+ 
+in
+ 
+this
+ 
+series
+ 
+has
+ 
+been
+ 
+a
+ 
+diagnosis:
+ 
+an
+ 
+account
+ 
+of
+ 
+how
+ 
+and
+ 
+why
+ 
+governance
+ 
+fails
+ 
+under
+ 
+conditions
+ 
+of
+ 
+biological
+ 
+longevity
+ 
+asymmetry.
+ 
+This
+ 
+paper
+ 
+is
+ 
+a
+ 
+design
+ 
+brief.
+ 
+It
+ 
+asks
+ 
+a
+ 
+structurally
+ 
+different
+ 
+question:
+ 
+What
+ 
+do
+ 
+institutions
+ 
+that
+ 
+have
+ 
+empirically
+ 
+demonstrated
+ 
+resistance
+ 
+to
+ 
+entropy
+ 
+over
+ 
+centuries
+ 
+look
+ 
+like,
+ 
+and
+ 
+what
+ 
+design
+ 
+criteria
+ 
+can
+ 
+be
+ 
+extracted
+ 
+from
+ 
+them
+ 
+for
+ 
+application
+ 
+to
+ 
+longevity
+ 
+biopolitics
+ 
+governance?
+ 
+Three
+ 
+case
+ 
+studies
+ 
+are
+ 
+examined.
+ 
+The
+ 
+Jiankang
+ 
+Empire
+ 
+(220–589
+ 
+CE),
+ 
+as
+ 
+constituted
+ 
+by
+ 
+the
+ 
+successive
+ 
+Wu,
+ 
+Eastern
+ 
+Jin,
+ 
+and
+ 
+four
+ 
+southern
+ 
+dynasties
+ 
+sharing
+ 
+a
+ 
+capital
+ 
+and
+ 
+overlapping
+ 
+institutional
+ 
+structures
+ 
+for
+ 
+approximately
+ 
+370
+ 
+years,
+ 
+demonstrates
+ 
+that
+ 
+governance
+ 
+infrastructure
+ 
+can
+ 
+survive
+ 
+dynastic
+ 
+collapse,
+ 
+conquest,
+ 
+and
+ 
+elite
+ 
+replacement
+ 
+when
+ 
+it
+ 
+is
+ 
+organized
+ 
+as
+ 
+graft-capable
+ 
+substrate
+ 
+rather
+ 
+than
+ 
+as
+ 
+a
+ 
+specific
+ 
+power
+ 
+center.
+ 
+The
+ 
+Japanese
+ 
+Imperial
+ 
+House,
+ 
+in
+ 
+continuous
+ 
+institutional
+ 
+existence
+ 
+for
+ 
+approximately
+ 
+fifteen
+ 
+centuries,
+ 
+demonstrates
+ 
+that
+ 
+legitimating
+ 
+authority
+ 
+can
+
+================================================================================
+FILE: 06_Phil_and_Submissions_Archive\SUBMITTED\THE_ACT_LEVEL_CRITERION.docx.pdf
+PAGES: 18 | SIZE: 248328 bytes
+--------------------------------------------------------------------------------
+THE
+ 
+ACT-LEVEL
+ 
+CRITERION
+ 
+ 
+Propositional
+ 
+versus
+ 
+Act-Level
+ 
+Falsifiability,
+ 
+and
+ 
+Why
+ 
+Propaganda
+ 
+Cannot
+ 
+Be
+ 
+Falsifiable
+ 
+by
+ 
+Ontological
+ 
+Necessity
+ 
+ 
+ 
+Gia
+ 
+Bao
+ 
+Huynh
+ 
+June
+ 
+2026
+ 
+ 
+ 
+ 
+ABSTRACT
+ 
+What
+ 
+this
+ 
+paper
+ 
+establishes:
+ 
+Popper's
+ 
+falsifiability
+ 
+criterion,
+ 
+applied
+ 
+only
+ 
+at
+ 
+the
+ 
+level
+ 
+of
+ 
+propositional
+ 
+content,
+ 
+can
+ 
+be
+ 
+satisfied
+ 
+by
+ 
+sophisticated
+ 
+propaganda.
+ 
+A
+ 
+communicator
+ 
+can
+ 
+deploy
+ 
+empirically
+ 
+accurate,
+ 
+genuinely
+ 
+falsifiable
+ 
+scientific
+ 
+claims
+ 
+while
+ 
+conducting
+ 
+a
+ 
+speech
+ 
+act
+ 
+whose
+ 
+behavioral
+ 
+structure
+ 
+is
+ 
+unfalsifiable
+ 
+—
+ 
+that
+ 
+is,
+ 
+while
+ 
+never
+ 
+genuinely
+ 
+inviting
+ 
+the
+ 
+audience
+ 
+to
+ 
+find
+ 
+out
+ 
+whether
+ 
+they
+ 
+should
+ 
+believe.
+ 
+This
+ 
+paper
+ 
+introduces
+ 
+a
+ 
+distinction
+ 
+between
+ 
+P-falsifiability
+ 
+(propositional
+ 
+falsifiability:
+ 
+can
+ 
+the
+ 
+content
+ 
+of
+ 
+this
+ 
+claim
+ 
+be
+ 
+wrong?)
+ 
+and
+ 
+A-falsifiability
+ 
+(act-level
+ 
+falsifiability:
+ 
+does
+ 
+this
+ 
+communicative
+ 
+act
+ 
+genuinely
+ 
+include
+ 
+exit
+ 
+conditions
+ 
+for
+ 
+belief?).
+ 
+The
+ 
+central
+ 
+argument
+ 
+is
+ 
+that
+ 
+propaganda
+ 
+cannot
+ 
+be
+ 
+A-falsifiable
+ 
+by
+ 
+ontological
+ 
+necessity,
+ 
+not
+ 
+by
+ 
+contingent
+ 
+design
+ 
+choice.
+ 
+Propaganda
+ 
+is
+ 
+defined
+ 
+by
+ 
+its
+ 
+telos:
+ 
+producing
+ 
+belief
+ 
+regardless
+ 
+of
+ 
+evidence.
+ 
+Offering
+ 
+genuine
+ 
+exit
+ 
+conditions
+ 
+—
+ 
+conditions
+ 
+under
+ 
+which
+ 
+the
+ 
+audience
+ 
+could
+ 
+reasonably
+ 
+not
+ 
+believe
+ 
+—
+ 
+undermines
+ 
+that
+ 
+telos
+ 
+b
+
+================================================================================
+FILE: 06_Phil_and_Submissions_Archive\SUBMITTED\The_Popperian_Holmesian_Playbook.docx.pdf
+PAGES: 12 | SIZE: 300024 bytes
+--------------------------------------------------------------------------------
+THE
+ 
+POPPERIAN-HOLMESIAN
+ 
+PLAYBOOK
+ 
+How
+ 
+to
+ 
+Construct
+ 
+Genuine
+ 
+Falsification
+ 
+Conditions
+ 
+and
+ 
+Execute
+ 
+Systematic
+ 
+Exit
+ 
+Elimination
+ 
+A
+ 
+Methodological
+ 
+Manual
+ 
+for
+ 
+Structural
+ 
+Argument
+ 
+Under
+ 
+Closing
+ 
+Windows
+ 
+Gia
+ 
+Bao
+ 
+Huynh
+ 
+June
+ 
+2026
+ 
+ABSTRACT
+ 
+Most
+ 
+philosophical
+ 
+and
+ 
+structural
+ 
+arguments
+ 
+fail
+ 
+at
+ 
+one
+ 
+of
+ 
+two
+ 
+opposite
+ 
+epistemic
+ 
+defects.
+ 
+The
+ 
+first
+ 
+defect
+ 
+is
+ 
+self-sealing:
+ 
+the
+ 
+argument
+ 
+is
+ 
+constructed
+ 
+so
+ 
+that
+ 
+no
+ 
+conceivable
+ 
+evidence
+ 
+can
+ 
+count
+ 
+as
+ 
+falsification,
+ 
+which
+ 
+produces
+ 
+rhetorical
+ 
+invulnerability
+ 
+at
+ 
+the
+ 
+cost
+ 
+of
+ 
+epistemic
+ 
+legitimacy.
+ 
+The
+ 
+second
+ 
+defect
+ 
+is
+ 
+unfalsifiability-by-vagueness:
+ 
+the
+ 
+argument
+ 
+is
+ 
+technically
+ 
+falsifiable
+ 
+but
+ 
+the
+ 
+falsification
+ 
+conditions
+ 
+are
+ 
+too
+ 
+imprecise
+ 
+to
+ 
+guide
+ 
+research
+ 
+or
+ 
+compel
+ 
+acknowledgment
+ 
+when
+ 
+they
+ 
+are
+ 
+met.
+ 
+The
+ 
+Popperian-Holmesian
+ 
+method
+ 
+is
+ 
+a
+ 
+two-step
+ 
+procedure
+ 
+that
+ 
+avoids
+ 
+both
+ 
+defects
+ 
+simultaneously.
+ 
+Step
+ 
+1
+ 
+(Popperian):
+ 
+construct
+ 
+genuine
+ 
+falsification
+ 
+conditions
+ 
+—
+ 
+specific,
+ 
+independent,
+ 
+actionable
+ 
+exit
+ 
+conditions
+ 
+that
+ 
+would
+ 
+demonstrate
+ 
+the
+ 
+central
+ 
+claim
+ 
+is
+ 
+wrong,
+ 
+accompanied
+ 
+by
+ 
+the
+ 
+author’s
+ 
+unconditional
+ 
+advance
+ 
+commitment
+ 
+to
+ 
+acknowledge
+ 
+each.
+ 
+Step
+ 
+2
+ 
+(Holmesian):
+ 
+systematically
+ 
+evaluate
+ 
+each
+ 
+exit
+ 
+condition
+ 
+using
+ 
+available
+ 
+evidence,
+ 
+demonstrating
+ 
+through
+ 
+which
+ 
+closure
+
+================================================================================
+FILE: 06_Phil_and_Submissions_Archive\SUBMITTED\Who_Built_The_Track.docx.pdf
+PAGES: 7 | SIZE: 214647 bytes
+--------------------------------------------------------------------------------
+WHO
+ 
+BUILT
+ 
+THE
+ 
+TRACK
+ 
+Diachronic
+ 
+Responsibility,
+ 
+the
+ 
+Social
+ 
+Connection
+ 
+Model,
+ 
+and
+ 
+Why
+ 
+the
+ 
+Trolley
+ 
+Problem
+ 
+Cannot
+ 
+Locate
+ 
+the
+ 
+Longevity
+ 
+Asymmetry
+ 
+Corpus
+ 
+Gia
+ 
+Bao
+ 
+Huynh
+ 
+Phat
+ 
+Dinh
+ 
+Dac
+ 
+July
+ 
+2026
+ 
+ABSTRACT
+ 
+The
+ 
+trolley
+ 
+problem
+ 
+has
+ 
+been
+ 
+analyzed
+ 
+as
+ 
+a
+ 
+synchronic
+ 
+problem
+ 
+since
+ 
+Foot
+ 
+(1967):
+ 
+one
+ 
+agent,
+ 
+one
+ 
+moment,
+ 
+one
+ 
+switch.
+ 
+Thomson
+ 
+(1976,
+ 
+1985)
+ 
+distinguishes
+ 
+the
+ 
+driver
+ 
+—
+ 
+who
+ 
+has,
+ 
+in
+ 
+her
+ 
+own
+ 
+words,
+ 
+“previously
+ 
+directed
+ 
+the
+ 
+trolley”
+ 
+—
+ 
+from
+ 
+the
+ 
+bystander,
+ 
+who
+ 
+has
+ 
+not,
+ 
+and
+ 
+treats
+ 
+this
+ 
+prior
+ 
+positional
+ 
+difference
+ 
+as
+ 
+load-bearing;
+ 
+her
+ 
+2008
+ 
+reversal
+ 
+(“Turning
+ 
+the
+ 
+Trolley,”
+ 
+Philosophy
+ 
+&
+ 
+Public
+ 
+Affairs
+ 
+36:4)
+ 
+goes
+ 
+further,
+ 
+concluding
+ 
+the
+ 
+bystander
+ 
+may
+ 
+not
+ 
+do
+ 
+what
+ 
+the
+ 
+driver
+ 
+may.
+ 
+Kamm’s
+ 
+most
+ 
+systematic
+ 
+treatment
+ 
+of
+ 
+the
+ 
+field
+ 
+(
+The
+ 
+Trolley
+ 
+Problem
+ 
+Mysteries,
+ 
+Oxford,
+ 
+2020)
+ 
+organizes
+ 
+its
+ 
+opening
+ 
+lecture
+ 
+around
+ 
+exactly
+ 
+this
+ 
+question:
+ 
+“Who
+ 
+Turned
+ 
+the
+ 
+Trolley?”
+ 
+The
+ 
+literature
+ 
+has
+ 
+therefore
+ 
+always
+ 
+tracked
+ 
+who
+ 
+stands
+ 
+at
+ 
+the
+ 
+switch
+ 
+and
+ 
+what
+ 
+prior
+ 
+relationship
+ 
+they
+ 
+had
+ 
+to
+ 
+the
+ 
+emergency.
+ 
+It
+ 
+has
+ 
+never
+ 
+analyzed
+ 
+a
+ 
+case
+ 
+in
+ 
+which
+ 
+that
+ 
+prior
+ 
+relationship
+ 
+is
+ 
+not
+ 
+causal
+ 
+or
+ 
+positional
+ 
+but
+ 
+constitutive
+ 
+—
+ 
+a
+ 
+case
+ 
+in
+ 
+which
+ 
+the
+ 
+same
+ 
+psychological
+ 
+mechanism
+ 
+required
+ 
+to
+ 
+operate
+

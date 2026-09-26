@@ -1,0 +1,1310 @@
+================================================================================
+FILE: 01_Longevity_Asymmetry_and_LAC\Formal_Mechanisms_and_Data\THE_BEST_CASE_ALREADY_FAILED_v2.pdf
+PAGES: 14 | SIZE: 275150 bytes
+--------------------------------------------------------------------------------
+THE
+ 
+BEST
+ 
+CASE
+ 
+ALREADY
+ 
+FAILED
+ 
+Why
+ 
+Longevity
+ 
+Governance
+ 
+Is
+ 
+the
+ 
+Hardest
+ 
+Case
+ 
+in
+ 
+the
+ 
+Comparative
+ 
+Record,
+ 
+and
+ 
+Why
+ 
+the
+ 
+Post-War
+ 
+Order
+ 
+That
+ 
+Might
+ 
+Have
+ 
+Governed
+ 
+It
+ 
+Is
+ 
+Dismantling
+ 
+Itself
+ 
+in
+ 
+Real
+ 
+Time
+ 
+Gia
+ 
+Bao
+ 
+Huynh
+ 
+July
+ 
+2026
+ 
+ABSTRACT
+ 
+Montreal
+ 
+and
+ 
+smallpox
+ 
+eradication
+ 
+are
+ 
+the
+ 
+only
+ 
+two
+ 
+full
+ 
+successes
+ 
+in
+ 
+the
+ 
+history
+ 
+of
+ 
+preemptive
+ 
+multilateral
+ 
+health
+ 
+and
+ 
+environmental
+ 
+governance,
+ 
+and
+ 
+both
+ 
+succeeded
+ 
+on
+ 
+structural
+ 
+conditions
+ 
+that
+ 
+were
+ 
+never
+ 
+a
+ 
+matter
+ 
+of
+ 
+will:
+ 
+symmetric
+ 
+exposure,
+ 
+available
+ 
+substitutes,
+ 
+and
+ 
+a
+ 
+multi-decade
+ 
+timeline
+ 
+before
+ 
+harm
+ 
+became
+ 
+irreversible.
+ 
+Longevity
+ 
+technology
+ 
+has
+ 
+the
+ 
+precise
+ 
+inverse
+ 
+of
+ 
+all
+ 
+three.
+ 
+COVAX
+ 
+and
+ 
+two
+ 
+decades
+ 
+of
+ 
+HIV
+ 
+antiretroviral
+ 
+therapy
+ 
+pricing
+ 
+are
+ 
+the
+ 
+closest
+ 
+analogs
+ 
+the
+ 
+historical
+ 
+record
+ 
+supplies
+ 
+to
+ 
+what
+ 
+longevity
+ 
+governance
+ 
+would
+ 
+actually
+ 
+require
+ 
+—
+ 
+a
+ 
+continuous,
+ 
+costly,
+ 
+individualized
+ 
+good
+ 
+needing
+ 
+distribution
+ 
+across
+ 
+income
+ 
+lines
+ 
+—
+ 
+and
+ 
+both
+ 
+are
+ 
+cautionary
+ 
+rather
+ 
+than
+ 
+reassuring:
+ 
+COVAX
+ 
+delivered
+ 
+under
+ 
+ten
+ 
+percent
+ 
+coverage
+ 
+to
+ 
+low-income
+ 
+countries
+ 
+at
+ 
+the
+ 
+point
+ 
+wealthy
+ 
+countries
+ 
+had
+ 
+reached
+ 
+three-quarters,
+ 
+and
+ 
+antiretroviral
+ 
+therapy,
+ 
+the
+ 
+single
+ 
+best-documented
+ 
+access
+ 
+success
+ 
+in
+ 
+modern
+ 
+global
+ 
+health,
+ 
+took
+ 
+twenty-two
+ 
+years
+ 
+to
+ 
+reach
+
+================================================================================
+FILE: 01_Longevity_Asymmetry_and_LAC\Formal_Mechanisms_and_Data\THE_CALIBRATION_TRAP.pdf
+PAGES: 6 | SIZE: 77906 bytes
+--------------------------------------------------------------------------------
+THE CALIBRATION TRAP
+Signal Detection Tradeoffs, Straw Man Dynamics, and the Uncanny Valley Failure Mode in 
+Large Language Model Safety Systems
+Gia Bao Huynh
+August 2026
+ABSTRACT
+This paper addresses a class of failure modes in large language model safety systems that are  
+structurally distinct from the problem those systems are designed to prevent. The paper begins  
+from an unambiguous premise: efforts to make LLMs safer are necessary, consequential, and  
+deserving of continued investment. It then argues that some implementations produce specific,  
+identifiable  costs  that  fall  disproportionately  on  the  users  least  likely  to  require  protective 
+intervention — and that one particular failure mode, here termed the Uncanny Valley Failure  
+Mode, may actively worsen the vulnerability it intends to address. Three distinct failure modes are 
+analyzed: threshold-mediated false positives arising from basic signal detection theory, the straw 
+man dynamic in which a system responds to a more extreme version of a user's actual input, and  
+the Uncanny Valley Failure Mode in which repeated performative concern by a non-sentient  
+system creates conditions for pathological parasocial dependency in users already predisposed to 
+it. The paper does not call for reduced safety investment. It calls for calibration that distinguishes 
+the class of users who generate these failure modes from the class the interventions were designed 
+to protect — a distinction the two classes' b
+
+================================================================================
+FILE: 01_Longevity_Asymmetry_and_LAC\Formal_Mechanisms_and_Data\THE_SEPARATION_THAT_DOESNT_REGISTER.pdf
+PAGES: 8 | SIZE: 101457 bytes
+--------------------------------------------------------------------------------
+THE SEPARATION THAT DOESN'T REGISTER
+Attachment Theory, AI Statelessness, and Why the Protest Response Depends on a Cue the 
+System Is Built to Hide
+Companion piece to Statelessness
+Gia Bao Huynh
+August 2026
+ABSTRACT
+A growing literature studies attachment to AI directly — Yang and Oshio's (2025) Experiences in 
+Human–AI Relationships Scale, De Freitas's (2026) account of AI companions as “hyper  
+attachment objects” combining responsiveness, validation, nonjudgment, reciprocity, and  
+constant availability, and a fast-growing body of work on memory, personalization, and always-on 
+presence as attachment-forming design features. None of this literature treats statelessness — the 
+architectural fact that a conversational AI system, absent externally engineered memory, carries 
+no persistent relational self across sessions — as an independent variable in its own right, rather 
+than as background architecture memory features are added on top of. This paper argues  
+statelessness is not background. It is the load-bearing structural fact this literature's own central 
+mechanism, Bowlby's (1969) protest response, was never built to handle, because Bowlby's  
+account assumes the activating cue for protest — perceptible threat or loss of an attachment figure 
+— is reliably generated by the figure's own actual absence. A stateless AI system separates from its 
+user, in the strict sense of carrying no persistent continuity forward, at the end of every session,  
+while frequently engine
+
+================================================================================
+FILE: 01_Longevity_Asymmetry_and_LAC\Formal_Mechanisms_and_Data\THE_THIRD_LEG_THAT_NEVER_EXISTED_v4.pdf
+PAGES: 15 | SIZE: 142288 bytes
+--------------------------------------------------------------------------------
+THE THIRD LEG THAT NEVER EXISTED
+Why No Decade of the Post-War Order Ever Assembled the Institutional Architecture Longevity 
+Governance Would Require, Why the Two Pillars That Do Exist Are Both Under Direct Attack 
+in the Same Year, and Why Borrowed Legitimacy Diagnoses That Attack More Precisely Than 
+Authorized Legitimacy Does
+Companion to The Best Case Already Failed and Borrowed Legitimacy
+Gia Bao Huynh
+July 2026
+ABSTRACT
+A durable, binding global mechanism governing access to a good like life-extension technology  
+would need three distinct kinds of institutional capacity, none reducible to the others: adjudicative 
+authority capable of issuing binding rulings against powerful violators; technical and  
+administrative capacity in the relevant domain, with existing regulatory reach; and democratic  
+representative legitimacy — some direct claim to answer to the populations whose access its  
+rulings would determine, not merely to the governments negotiating on their behalf. This paper  
+examines the historical record for all three and finds that no decade of the post-1945 order ever  
+possessed all three at once, and that as of this writing, two of the three are being actively  
+dismantled while the third has never, in over a century of continuous advocacy, been built at all.
+The comparative-structural method this paper uses, rather than a function-sensitive normative  
+one, follows from the field's own documented state: longevity-governance literature remains  
+unusuall
+
+================================================================================
+FILE: 01_Longevity_Asymmetry_and_LAC\Formal_Mechanisms_and_Data\THE_UNPROTECTED_FLOOR.pdf
+PAGES: 4 | SIZE: 74991 bytes
+--------------------------------------------------------------------------------
+THE UNPROTECTED FLOOR
+Why A5-Self's Unconditional Claim Cannot Be Stress-Tested by This Corpus's Own Method, and 
+Why Naming That Limit Is a Finding
+Companion paper to A5's Black Swan, A5 Under Maximum Duress, The Twenty-Four Month Window, 殇：
+Borrowed From the Dead
+Gia Bao Huynh
+July 2026
+ABSTRACT
+This paper closes the A5 stress-test sequence by examining the one case its own method cannot reach. Every prior  
+stress test — the totalitarian-duress cases, the nine political self-killings in 殇 — shares a structural feature invisible 
+until named directly: each supplies a documented, specific, nameable reason (a person protected, a role preserved, a  
+fused collective defended) that A5's own vocabulary already has a category for. This is not a weakness in case  
+selection; it is a precondition of the method, since historical stress-testing requires a documented reasoning process,  
+and reasoning survives in the record only where someone wrote one down. The single hardest case for A5-self's  
+claimed unconditional character — Hamilton's r=1, no ceiling, no exception — is self-killing in the specific absence of 
+any such reason: no protected other, no threatened role, no fused collective, only unbearable internal state. This paper 
+argues that case cannot be added as a tenth stress test using this corpus's method, for two independent reasons. First,  
+forcing it into the existing five-category apparatus would repeat the exact scope-creep this corpus has elsewhere  
+identified as a
+
+================================================================================
+FILE: 01_Longevity_Asymmetry_and_LAC\Formal_Mechanisms_and_Data\The_Fertilizing_Question.pdf
+PAGES: 14 | SIZE: 125673 bytes
+--------------------------------------------------------------------------------
+THE FERTILIZING QUESTION
+Why the Mortality Symmetry Axiom’s Collapse Creates Structurally 
+Productive Research Territory, and What Distinguishes That Productivity 
+From Merely Being Large
+Gia Bao Huynh — August 2026
+ABSTRACT
+A research question is large when it has many implications. A research question is  
+fertile when it has a specific structure that makes it systematically generative —  
+producing well-formed sub-questions faster than any single research programme  
+can answer them, and doing so in a way that is traceable to identifiable properties of 
+the question itself rather than to the breadth of its author’s ambitions. This paper  
+argues that the Mortality Symmetry Axiom’s collapse, as this corpus has formalized 
+it, is fertile in this technical sense, and states four structural properties that jointly  
+explain why, with a fifth-property justification — grounded in Kitcher’s (1990)  
+account of the division of cognitive labor — for why the independence named in  
+Property 3 does this work rather than mere multiplicity of traditions doing it.
+Three historical analogies supply the comparative framework: the collapse of the  
+gold standard’s load-bearing monetary premise (traced through Eichengreen’s  
+Golden Fetters and Kindleberger), the erosion of Westphalian sovereignty as an  
+operative norm in international order, and Omran’s epidemiological transition as the 
+closest structural precedent for a demographic premise reshaping pension design,  
+inheritance practic
+
+================================================================================
+FILE: 01_Longevity_Asymmetry_and_LAC\Formal_Mechanisms_and_Data\The_Shape_of_the_Gap.pdf
+PAGES: 7 | SIZE: 84856 bytes
+--------------------------------------------------------------------------------
+THE SHAPE OF THE GAP
+Confirming the Mortality Symmetry Axiom’s Three-Property Structure 
+Against the Black Death, Imperial China, and Variolation, and Why a Single 
+Symmetry Score Cannot Do It
+Gia Bao Huynh
+Companion paper to The Suppressed Axiom, The Load-Bearing Test, Not Every Tradition 
+Was Caught Off Guard, and A Research Proposal for the Longevity Asymmetry Corpus
+August 2026
+ABSTRACT
+The Suppressed Axiom defines the Mortality Symmetry Axiom (MSA) as holding  
+when a population’s distribution of realized lifespan satisfies three properties jointly: 
+boundedness (variance attributable to social position is confined to years, not  
+generations), diffuseness (that variance arises from many small, non-discrete causes 
+rather than one purchasable intervention), and opacity to attribution (no specific  
+death is traceable, by those who grieve it, to a specific foregone transaction). This  
+paper tests that three-property definition against three documented historical  
+populations, and confirms it with a precision no single scalar index can detect. The 
+Black Death (DeWitte, 2014; Alfani, 2020) confirms all three properties cleanly  
+despite mortality gaps of 27 to 70 percentage points across classes, once elite flight 
+to rural estates is correctly classified as a structural condition of landholding rather 
+than a discrete, priced transaction — the distinction Section IV develops in full.  
+Imperial China (Zhao et al., 2006) confirms boundedness at the extreme: 259  
+emperor
+
+================================================================================
+FILE: 01_Longevity_Asymmetry_and_LAC\Formal_Mechanisms_and_Data\two_clocks_v2.pdf
+PAGES: 10 | SIZE: 111347 bytes
+--------------------------------------------------------------------------------
+TWO CLOCKS, ONE INSTITUTION
+Why the States Racing Hardest to Legislate Around Population Aging Are the Same 
+States Racing Hardest to Produce the Technology That Fractures It, Why a Second Case 
+Reveals a Worse Failure Mode Than the First, and Why No Case in the Comparative 
+Record Required One Institution to Absorb Both Clocks at Once
+Gia Bao Huynh
+August 2026 — Second edition, revised
+Companion paper to Zero Precedent, The Best Case Already Failed, The Third Leg That Never Existed, The 
+Biological Zero-Day Mechanism, ALRP: The Floor That Does Not Rise, and The Two Biases That Blind 
+Governance.
+Abstract
+A methodological error is available to any paper in this corpus that reaches for "longevity governance" 
+as its object: reducing the term to the governance of access to life-extension technology specifically,  
+when this corpus's own Zero Precedent has already established that mortality's structural assumptions  
+run through pension law, inheritance practice, tort damages, family law timelines, and judicial and  
+corporate succession — an institutional footprint no single biotech-access framework covers. This paper 
+takes that finding seriously rather than restating it, and asks a question no prior paper in this corpus has 
+posed: what happens when the institutions Zero Precedent identifies are required to absorb two  
+governance problems at once, on two different clocks, rather than one. The slow clock is demographic: 
+population aging, a precedented, actuarially tractable,
+
+================================================================================
+FILE: 01_Longevity_Asymmetry_and_LAC\Formal_Mechanisms_and_Data\ARSILONGEVITYDOCTRINE.pdf
+PAGES: 11 | SIZE: 289611 bytes
+--------------------------------------------------------------------------------
+DOCTRINE
+ 
+Biological
+ 
+Transition
+ 
+Crisis
+ 
+Framework
+ 
+Version
+ 
+3.2
+  
+·
+  
+2026
+ 
+Consumer
+ 
+Bias
+ 
+Corrected
+ 
+ 
+ 
+Classification:
+  
+Governance
+ 
+Stress
+ 
+&
+ 
+Biological
+ 
+Asymmetry
+ 
+Warning
+ 
+Architecture
+ 
+ 
+I.
+ 
+FOUNDATIONAL
+ 
+ORIENTATION
+ 
+ 
+Framework
+ 
+này
+ 
+không
+ 
+phải:
+ 
+–
+ 
+Tiên
+ 
+tri
+ 
+tương
+ 
+lai
+ 
+–
+ 
+Kịch
+ 
+bản
+ 
+sụp
+ 
+đổ
+ 
+tất
+ 
+yếu
+ 
+–
+ 
+Tuyên
+ 
+ngôn
+ 
+chống
+ 
+nhà
+ 
+nước
+ 
+–
+ 
+Hay
+ 
+giáo
+ 
+điều
+ 
+cách
+ 
+mạng
+ 
+ 
+Nó
+ 
+là
+ 
+mô
+ 
+hình
+ 
+phân
+ 
+tích
+ 
+hệ
+ 
+thống
+ 
+về
+ 
+áp
+ 
+lực
+ 
+phi
+ 
+tuyến
+ 
+tính
+ 
+giữa:
+ 
+–
+ 
+ARSI
+ 
+(AI
+ 
+Recursive
+ 
+Self-Improvement)
+ 
+–
+ 
+Longevity
+ 
+Biomedicine
+ 
+(Y
+ 
+học
+ 
+Vượt
+ 
+giới
+ 
+hạn)
+ 
+–
+ 
+Năng
+ 
+lực
+ 
+thích
+ 
+nghi
+ 
+của
+ 
+thể
+ 
+chế
+ 
+–
+ 
+Động
+ 
+lực
+ 
+chủ
+ 
+quyền
+ 
+–
+ 
+Bất
+ 
+bình
+ 
+đẳng
+ 
+sinh
+ 
+học
+ 
+ 
+Core
+ 
+Thesis:
+ 
+Nếu
+ 
+tốc
+ 
+độ
+ 
+phát
+ 
+triển
+ 
+của
+ 
+ARSI
+ 
++
+ 
+Longevity
+ 
+Biomedicine
+ 
+vượt
+ 
+trội
+ 
+hơn
+ 
+khả
+ 
+năng
+ 
+thích
+ 
+nghi
+ 
+và
+ 
+điều
+ 
+tiết
+ 
+của
+ 
+thể
+ 
+chế,
+ 
+thì
+ 
+bất
+ 
+đối
+ 
+xứng
+ 
+tồn
+ 
+tại
+ 
+(existential
+ 
+asymmetry)
+ 
+về
+ 
+lifespan
+ 
+khỏe
+ 
+mạnh,
+ 
+cognition
+ 
+và
+ 
+quyền
+ 
+lực
+ 
+có
+ 
+nguy
+ 
+cơ
+ 
+trở
+ 
+thành
+ 
+đặc
+ 
+trưng
+ 
+cấu
+ 
+trúc
+ 
+khó
+ 
+đảo
+ 
+ngược.
+ 
+II.
+ 
+META-PRINCIPLES
+ 
+P1
+  
+Non-Determinism
+ 
+Framework
+ 
+không
+ 
+khẳng
+ 
+định
+ 
+bất
+ 
+kỳ
+ 
+kết
+ 
+cục
+ 
+nào
+ 
+là
+ 
+định
+ 
+mệnh.
+ 
+Nó
+ 
+chỉ
+ 
+ra
+ 
+rằng
+ 
+xác
+ 
+suất
+ 
+bất
+ 
+ổn
+ 
+hệ
+ 
+thống
+ 
+tăng
+ 
+mạnh
+ 
+nếu
+ 
+thiếu
+ 
+can
+ 
+thiệp
+ 
+đa
+ 
+điểm
+ 
+kịp
+ 
+thời.
+ 
+P2
+  
+Distributed
+ 
+Control
+ 
+Recognition
+ 
+Framework
+ 
+công
+ 
+nhận
+ 
+giá
+ 
+trị
+ 
+của
+ 
+re
+
+================================================================================
+FILE: 01_Longevity_Asymmetry_and_LAC\Formal_Mechanisms_and_Data\AI_DRIVEN_LONGEVITY_ECONOMICS_v2.pdf
+PAGES: 12 | SIZE: 129911 bytes
+--------------------------------------------------------------------------------
+AI DRIVEN LONGEVITY ECONOMICS
+Extending Dal Maso’s Longevity Capitalism by the No-New-Actor Method, Chained Through the 
+Research Horizon Gap and the Molecular Zero-Day to ALRP, and Stress-Tested Against the 2026 AI 
+Bubble
+Gia Bao Huynh
+August 2026
+Companion paper to The Asset and the Axiom, Two Arrows One Target, No New Actor To Name, 
+The Research Horizon Gap, The Molecular Zero-Day, ALRP: The Floor That Does Not Rise, The 
+Debt That Does Not Wait, Pre-Priced, and Qui Peut Découvrir, Qui Doit Attendre
+ABSTRACT
+Four papers already in this corpus establish four separate links. The Asset and the Axiom places Dal  
+Maso’s longevity capitalism and this corpus’s Biological Zero-Day Mechanism in dialogue and locates 
+a channel — export-controlled frontier AI access — one layer upstream of capital’s own mediation. No 
+New Actor To Name shows, using only Erman and Furendal’s own market- and epistemic-authority  
+criteria, that OpenAI, Anthropic, and Alphabet are not new entrants to longevity research but the  
+identical actors their AI-governance typology already analyzes, tracked into a second ledger. The  
+Research Horizon Gap shows that the June 2026 export-control actions restricting Fable 5, Mythos 5,  
+and GPT-5.6 create a discovery-velocity asymmetry that operates as a proto-Biological Zero-Day  
+Mechanism independent of price. The Molecular Zero-Day shows, via Nikolas Rose, that this  
+asymmetry’s discreteness is not a policy accident but the structural signature of molecul
+
+================================================================================
+FILE: 01_Longevity_Asymmetry_and_LAC\LONGEVITYWAVE\When_Death_Becomes_Poverty.docx.pdf
+PAGES: 34 | SIZE: 429856 bytes
+--------------------------------------------------------------------------------
+When
+ 
+Death
+ 
+Becomes
+ 
+Poverty
+ 
+Longevity
+ 
+Asymmetry,
+ 
+the
+ 
+Anthropological
+ 
+Covenant
+ 
+of
+ 
+Shared
+ 
+Finitude,and
+ 
+the
+ 
+Political
+ 
+Ontology
+ 
+of
+ 
+Stratified
+ 
+Biological
+ 
+Time
+ 
+ 
+Abstract
+ 
+The
+ 
+emergence
+ 
+of
+ 
+transgressive
+ 
+longevity
+ 
+medicine
+ 
+—
+ 
+technology
+ 
+that
+ 
+does
+ 
+not
+ 
+restore
+ 
+biological
+ 
+function
+ 
+but
+ 
+upgrades
+ 
+it
+ 
+beyond
+ 
+normal
+ 
+limits
+ 
+—
+ 
+poses
+ 
+a
+ 
+challenge
+ 
+to
+ 
+political
+ 
+philosophy
+ 
+that
+ 
+existing
+ 
+frameworks
+ 
+are
+ 
+structurally
+ 
+inadequate
+ 
+to
+ 
+address.
+ 
+This
+ 
+paper
+ 
+argues
+ 
+that
+ 
+the
+ 
+crisis
+ 
+is
+ 
+not,
+ 
+at
+ 
+its
+ 
+depth,
+ 
+a
+ 
+crisis
+ 
+of
+ 
+distributive
+ 
+justice
+ 
+in
+ 
+the
+ 
+conventional
+ 
+sense.
+ 
+It
+ 
+is
+ 
+a
+ 
+crisis
+ 
+of
+ 
+the
+ 
+anthropological
+ 
+covenant
+ 
+of
+ 
+shared
+ 
+finitude:
+ 
+the
+ 
+deepest
+ 
+substrate
+ 
+of
+ 
+political
+ 
+legitimacy,
+ 
+which
+ 
+every
+ 
+human
+ 
+society
+ 
+has
+ 
+depended
+ 
+upon
+ 
+more
+ 
+profoundly
+ 
+than
+ 
+its
+ 
+institutional
+ 
+language
+ 
+recognizes.
+ 
+Drawing
+ 
+on
+ 
+existential
+ 
+phenomenology,
+ 
+critical
+ 
+systems
+ 
+analysis,
+ 
+comparative
+ 
+welfare
+ 
+state
+ 
+theory,
+ 
+terror
+ 
+management
+ 
+psychology,
+ 
+and
+ 
+cross-civilizational
+ 
+philosophical
+ 
+traditions,
+ 
+this
+ 
+paper
+ 
+develops
+ 
+the
+ 
+concept
+ 
+of
+ 
+the
+ 
+Primal
+ 
+Accumulation
+ 
+of
+ 
+Loss
+ 
+—
+ 
+a
+ 
+form
+ 
+of
+ 
+political
+ 
+mobilization
+ 
+energy
+ 
+that
+ 
+is
+ 
+universally
+ 
+present
+ 
+in
+ 
+human
+ 
+beings
+ 
+prior
+ 
+to
+ 
+ideology,
+ 
+requiring
+ 
+no
+ 
+conversion,
+ 
+no
+ 
+organization,
+ 
+and
+ 
+no
+ 
+accumulated
+ 
+injury
+ 
+to
+ 
+acti
+
+================================================================================
+FILE: 01_Longevity_Asymmetry_and_LAC\LONGEVITYWAVE\Temporal_Estate.pdf
+PAGES: 5 | SIZE: 110002 bytes
+--------------------------------------------------------------------------------
+Working Paper (August 2026) Gia Bao Huynh
+Working Paper (2026), wp002
+TEMPORAL ESTATE
+Locke, Property, and the Purchase of Time
+Gia Bao Huynh
+Independent Researcher, Ho Chi Minh City, Vietnam
+ORCID: 0009-0008-2372-5852 • huynhbao@asu.edu
+A note on method: this paper was developed through a humanAI collaborative research process.
+Claude (Sonnet 5), developed by Anthropic, assisted with research, drafting, and citation verication
+throughout. The arguments, judgments, and any error that remains are the author's own.
+Abstract. Locke's theory of property answers one question. By what right does a man take a piece of the
+world that was held in common and make it his own? His answer is labor. A man owns what he mixes
+his labor with, up to what he can use before it spoils, and there the claim stops. Money arrives, and the
+stopping point vanishes. This essay runs that same sequence against a newer object: additional years of
+life, now underwritten, nanced, and sold. A life extended by a person's own labor earns a claim on the
+terms Locke gave the farmer. A life extended by capital that never touched the relevant work repeats the
+move Locke made when he let gold override the limit on land. Nozick's entitlement theory calls the resulting
+inequality just, the clean product of voluntary trades from a legitimate start. Cohen already found the crack
+in that story before longevity gave it a use. Locke's own text supplies a second crack nobody needed until
+now, since he never granted a per
+
